@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://i.imgur.com/vTc9CKV.jpg" alt="workflow" width=200">
+  <img src="https://i.imgur.com/2FcWC5i.png" alt="workflow" width=200">
   <br><br>
   workflow of my life
   <br><br>
