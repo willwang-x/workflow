@@ -51,4 +51,5 @@
 ## More
 
 * [《清单革命》](https://book.douban.com/subject/27168564/)
+* [Post-surgical deaths in Scotland drop by a third, attributed to **a checklist**](https://news.ycombinator.com/item?id=19682451): one example
 
