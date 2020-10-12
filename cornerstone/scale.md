@@ -1,4 +1,4 @@
-# Priority: 如何给时间做主？
+# Scale: 生活之秤 ｜ 哪一件更重要？
 
 > 所谓价值观，即 Which is more important?
 
