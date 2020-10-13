@@ -31,6 +31,8 @@ from [For This Guru, No Question Is Too Big](https://www.nytimes.com/2009/05/24/
 
 ## What 
 
+![one day](https://i.imgur.com/2im8Inx.png)
+
 * @email: 进行一部沟通
 * @review: 反思总结如何进步？一切**支线任务**在这里处理(screenshot)
 * @omnifocus: 一切被捕捉的灵感和想法
