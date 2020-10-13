@@ -1,7 +1,7 @@
 <h1 align="center">
 <br>
-  <a href="https://i.imgur.com/Tz5REVp.png">
-  <img src="https://i.imgur.com/Tz5REVp.png" alt="workflow" width=200"></a>
+  <a href="https://i.imgur.com/8qzEKSb.png">
+  <img src="https://i.imgur.com/8qzEKSb.png" alt="workflow" width=200"></a>
   <br><br>
   workflow of my life
   <br><br>
