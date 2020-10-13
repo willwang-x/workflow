@@ -1,6 +1,10 @@
 # Sleep: 如何愉快地度过人生的三分之一？
 
-![A good night](https://i.imgur.com/LBxCzFp.png)
+
+
+<center>
+<img src="https://i.imgur.com/LBxCzFp.png" alt="A good night" width="300"/>
+</center>
 
 > 创造完美睡眠，便就是为了创造完美白天。 - 睡眠研究协会
 
