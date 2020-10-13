@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <a href="https://i.imgur.com/avdHDje.png">
+  <a href="https://i.imgur.com/Tz5REVp.png">
   <img src="https://i.imgur.com/Tz5REVp.png" alt="workflow" width=200"></a>
   <br><br>
   workflow of my life
