@@ -56,7 +56,7 @@ More：
 	* **衣**：选好明日的**衣服**，和起床的运动**outfit**
 	* **食**：睡前的**Tea**，床前的**水**，明日的**4瓶水**（热水+[supplement](https://www.amazon.com/gp/product/B084GZNKZQ/)+2瓶入包）
 	* **行**：**充电**(iPhone/iWatch/Bose/AirPods/充电宝)，**清理**(电脑和手机屏幕)，**check** [kits-for-tommorow](https://kit.co/embed?url=https%3A%2F%2Fkit.co%2Fwill.wang.wang%2Fkit-for-tomorrow)
-* **7.5 小时**: [睡眠周期](https://i.imgur.com/0QCLbtT.png)约1.5小时 = 浅睡眠 + 深睡眠 + 回到浅睡眠 + 最后快速动眼睡眠。其中最重要的是深睡眠和REM睡眠。
+* **7.5 小时**: [睡眠周期](https://i.imgur.com/0QCLbtT.png)约1.5小时 = 浅睡眠 + 深睡眠 + 回到浅睡眠 + 最后快速动眼睡眠(REM)。其中最重要的是深睡眠和REM睡眠。
 * **深睡眠**：对**体力**的恢复作用最大。深睡眠脑电波呈现最深最慢的δ波，人会完全丧失意识，心率减慢，体温降低，最难叫醒。
 * **REM睡眠**：对**记忆的增强**和**情绪的恢复**作用最大。REM睡眠时，人的眼球会快速运动，肌肉完全松弛，但大脑却极为活跃。很多时候我们醒来记得晚上做的梦，都发生在REM睡眠阶段。
 
