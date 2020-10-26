@@ -61,15 +61,25 @@
 
 ## Q&A
 
-* How to change default mac screenshot location?
-	* defaults write com.apple.screencapture location **~/Desktop**
-	* killall SystemUIServer 
-* How to save space for screenshots if needed? 
-	* for i in *.png; do sips -s format jpeg -s formatOptions 5 "${i}" --out "${i%png}jpg"; done
-* Should I delete screenshot after review?
-* Why ASK-CONNECT-VIS-ORGANIZE?
-	* A: [TED: working memory](https://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world) 
-* Have you reviewed your review?
-	* A: Yes. Check [github.githistory.xyz](https://github.githistory.xyz/willwang-x/a-growing-cs/blob/master/workflow/cornerstone/review.md) 
+#### Q: How to change default mac screenshot location?
+
+* defaults write com.apple.screencapture location **~/Desktop**
+* killall SystemUIServer 
+
+#### Q: How to save space for screenshots if needed? 
+
+A: for i in *.png; do sips -s format jpeg -s formatOptions 5 "${i}" --out "${i%png}jpg"; done
+
+#### Q: Should I delete screenshot after review?
+
+#### Q: Why ASK-CONNECT-VIS-ORGANIZE?
+
+A: [TED: working memory](https://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world) 
+
+#### Q: Have you reviewed your review?
+
+A: Yes. Check [github.githistory.xyz](https://github.githistory.xyz/willwang-x/a-growing-cs/blob/master/workflow/cornerstone/review.md) 
+
+#### How do you do weekly/monthly/yeaerly review?
 
 
