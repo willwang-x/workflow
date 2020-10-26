@@ -39,6 +39,10 @@ A: Here are some I met:
 
 * Newsletter, e.g. CSS Animation Weekly -> Move to RSS 
 
+#### Q: 如何面对邮件的衍生任务？
+
+A: 不要在跳离邮件主线任务，使用Queue (= workflowy) 把邮件之后的事件队列中。然后再做处理。因为 邮件是主线任务。
+
 ## More 
 
 * [What’s the best email app for the Mac (Updated for 2020)](https://9to5mac.com/2020/08/02/whats-the-best-email-app-for-mac/)
