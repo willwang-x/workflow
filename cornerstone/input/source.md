@@ -1,4 +1,4 @@
-# Input: 如何获得完备及时的高信噪比阅读源呢？
+# Source: 如何获得完备及时的高信噪比阅读源呢？
 
 > You are what you read.
 
