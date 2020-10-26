@@ -59,7 +59,7 @@
 * **大问题**：因为细节交给了Anki，试图从当下细节，思考背后适用性更广的问题和地图是什么，e.g. 从BNC想到要定义「语料库」
 
 
-## Q&A
+## FAQs
 
 #### Q: How to change default mac screenshot location?
 
@@ -80,6 +80,6 @@ A: [TED: working memory](https://www.ted.com/talks/peter_doolittle_how_your_work
 
 A: Yes. Check [github.githistory.xyz](https://github.githistory.xyz/willwang-x/a-growing-cs/blob/master/workflow/cornerstone/review.md) 
 
-#### How do you do weekly/monthly/yeaerly review?
+#### Q: How do you do weekly/monthly/yeaerly review?
 
 
