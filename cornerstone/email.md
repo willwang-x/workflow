@@ -8,12 +8,18 @@
 
 - 搜索大于整理。
 - All in one. 
+- 对自己的要求：At least 一天处理一次邮件。
 
 
 ## How 
 
-* Only keep email types that is exclusively done by email client
-* 分类邮件 配合 workflowy，针对不同邮件进行不同的处理
+* 记录: 线性扫描邮件，遇到要脱离Client，记录在笔记软件中 
+* 分类: 对支线任务排序
+* 处理: 分类处理	
+	* 人相关：优先处理
+	* Newsletter: 退订，转成RSS订阅
+	* 其他：待摸索
+
 
 ## What 
 
@@ -23,6 +29,9 @@
 terms: 
 
 - **Archive**:  junk drawer that allows you to hide emails you’re not ready to delete quite yet from view
+- 退订: Only keep email types that is exclusively done by email client
+- 笔记软件：使用workflowy
+
 
 ### Todo
 
