@@ -60,6 +60,20 @@ More：
 * **深睡眠**：对**体力**的恢复作用最大。深睡眠脑电波呈现最深最慢的δ波，人会完全丧失意识，心率减慢，体温降低，最难叫醒。
 * **REM睡眠**：对**记忆的增强**和**情绪的恢复**作用最大。REM睡眠时，人的眼球会快速运动，肌肉完全松弛，但大脑却极为活跃。很多时候我们醒来记得晚上做的梦，都发生在REM睡眠阶段。
 
+## FAQs
+
+#### Q: What is the best sleep tracker?
+
+A: Depend on your budget and need:
+
+* [OURA RING](https://ouraring.com/product/heritage-silver/step1): Most accurate but 300$
+* [Withings Sleep Tracking Mat](https://www.withings.com/us/en/sleep): reasonably accruate, Home Automation, Shareable health report
+* **iWatch with app**: broadly accurate
+	* [pillow](https://pillow.app/) (smart alarm + sleep knowledge)
+	* autosleep
+	* sleep++
+
+source: [Sleep Tracker Review](https://www.youtube.com/watch?v=t3RSmj8bZD0)
 
 ## More 
 
