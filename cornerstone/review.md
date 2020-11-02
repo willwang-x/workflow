@@ -82,4 +82,10 @@ A: Yes. Check [github.githistory.xyz](https://github.githistory.xyz/willwang-x/a
 
 #### Q: How do you do weekly/monthly/yeaerly review?
 
+A: Here are some things I need to review weeekly `(4+3+3)*7 = 70h`:
 
+* Done (toggl)
+* Improvement (github)  
+* Todo next week (things)
+
+Compared with my short & long goal. ( app? )
