@@ -54,7 +54,7 @@
 * **提问**：这个「知识点」有什么用？我为什么截图？思维方式，还是实施细节？主线任务，还是支线任务？ 
 * **连接**：这个与我以前做的东西有什么联系？辅助工具是 [wiki](https://i.imgur.com/aXYU4xr.png)，[learn-anything](https://learn-anything.xyz/)
 * **视觉**：想象实际的**使用场景**？想象它是如何生长到我的「知识树」上的？有相关图片么？地图呢？辅助工具：Google Images
-* **组织**：把这个「知识点」放到那个节点上呢？采用wiki连接中词语给知识点**安家**。
+* **组织**：把这个「知识点」放到那个节点上呢？采用wiki链接中词语给知识点**安家**。因为具有唯一性。
 * **定义**：再小的卡片也是自己的，格式为「why-how-what-more」
 * **大问题**：因为细节交给了Anki，试图从当下细节，思考背后适用性更广的问题和地图是什么，e.g. 从BNC想到要定义「语料库」
 * **安家**：Story, **place**, and emotion are the foundation of some of our strongest memories. - [Memory](https://www.netflix.com/watch/81062188)
