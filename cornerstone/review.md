@@ -82,7 +82,7 @@ A: [TED: working memory](https://www.ted.com/talks/peter_doolittle_how_your_work
 
 A: Yes. Check [github.githistory.xyz](https://github.githistory.xyz/willwang-x/a-growing-cs/blob/master/workflow/cornerstone/review.md) 
 
-#### Q: How do you do weekly/monthly/yeaerly review?
+#### Q: How do you do weekly/monthly/yearly review?
 
 A: Here are some things I need to review weeekly `(4+3+3)*7 = 70h`:
 
