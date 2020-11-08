@@ -1,7 +1,7 @@
 <h1 align="center">
 <br>
 	<a href="https://www.wikiwand.com/en/Note-taking">
-  <img src="?" alt="Note-taking example" width=42%">
+  <img src="https://i.imgur.com/EFEoch9.png" alt="Note-taking example" width=42%">
   </a>
   <br><br>
 Note-taking: 如何高效做笔记？
