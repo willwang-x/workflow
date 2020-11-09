@@ -1,7 +1,7 @@
 <h1 align="center">
 <br>
-	<a href="https://www.wikiwand.com/en/Note-taking">
-  <img src="https://i.imgur.com/EFEoch9.png" alt="Note-taking example" width=42%">
+	<a href="https://www.wikiwand.com/en/Meditation">
+  <img src="https://i.imgur.com/AE4j1g2.png" alt="Meditate example" width=42%">
   </a>
   <br><br>
 Meditate: 如何冥想来帮助深度工作？
@@ -12,7 +12,7 @@ Meditate: 如何冥想来帮助深度工作？
 
 ## Why 
 
-在看完[mindfulness](https://www.netflix.com/watch/81062191)，觉得有必要把冥想纳入routine中，因为有一个感性认知，如果说运动员需要在运动前拉伸，那么脑力工作者则需要在深度工作前冥想。好处是：
+在看完[mindfulness](https://www.netflix.com/watch/81062191)，觉得有必要把冥想纳入routine中。有一个感性认知，如果说运动员需要在运动前拉伸，那么脑力工作者则需要在深度工作前冥想。好处是：
 
 * 保持大脑的敏锐
 * 保持用脑的可持续性
@@ -29,6 +29,7 @@ Meditate: 如何冥想来帮助深度工作？
 
 * Headspace
 * breathe
+* [break](https://www.psychologytoday.com/us/blog/changepower/201704/how-do-work-breaks-help-your-brain-5-surprising-answers): 工作间的休息有很多好处。 
 
 ## FAQs
 
