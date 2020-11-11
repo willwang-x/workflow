@@ -30,9 +30,20 @@
 
 ## What?
 
-- [Pinterest](https://www.pinterest.com/): 提供了对物品快速**标记**，**分类**，以及**连接**到购买渠道。所见即可得。个人物品虚拟仓库。(当前用法) 
-- [Amazon](https://www.amazon.com/): 美国网络购物最佳方案，具有全球化的扩展性。
-- [costco](https://www.cheatsheet.com/money-career/went-to-costco-first-time-and-loved-it.html/): a chain of membership-only **warehouse** clubs. 批发省钱居家。 缺点：无法在线购买。
-- [99 Ranch Market](https://www.99ranch.com/): an Asian food supermarket chain. 亚洲物品购买地。
-- [Kit.co](https://kit.co/)：a community to discover, discuss and get interesting products – grouped into kits – for activities like traveling, DJing, cooking, cycling and more.
-- [Workflowy](https://www.wikiwand.com/en/Workflowy): a text-based nested list
+* [Pinterest](https://www.pinterest.com/): 提供了对物品快速**标记**，**分类**，以及**连接**到购买渠道。所见即可得。个人物品虚拟仓库。(当前用法) 
+* [Amazon](https://www.amazon.com/): 美国网络购物最佳方案，具有全球化的扩展性。
+* [costco](https://www.cheatsheet.com/money-career/went-to-costco-first-time-and-loved-it.html/): a chain of membership-only **warehouse** clubs. 批发省钱居家。 缺点：无法在线购买。
+* [99 Ranch Market](https://www.99ranch.com/): an Asian food supermarket chain. 亚洲物品购买地。
+* [Kit.co](https://kit.co/)：a community to discover, discuss and get interesting products – grouped into kits – for activities like traveling, DJing, cooking, cycling and more.
+* [Workflowy](https://www.wikiwand.com/en/Workflowy): a text-based nested list
+
+## FQAs
+
+#### Q: 作为收集工具，你是如何看到 Workflowy, Pinterest, Kit 的差异性？
+
+A: 从收集，浏览，编辑和分享三者来看：
+
+* 收集便捷性：Pinterest > Workflowy > Kit
+* 浏览便捷性：Kit > Workflowy > Pinterest
+* 编辑便捷性：Workflowy > Pinterest > Kit
+* 分享可能性：Kit > Workflowy > Pinterest
