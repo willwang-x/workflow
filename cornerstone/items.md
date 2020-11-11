@@ -18,24 +18,21 @@
 
 更多好处：
 
-- All in One: 个人虚拟物品仓库。
-- Collebrate: 与朋友一起计划旅行，聚会和项目。
+*  All in One: 个人虚拟物品仓库。
+*  Collebrate: 与朋友一起计划旅行，聚会和项目。
 
 ## How?
 
-### App:
-
-- [Pinterest Save Button](https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en)
-
-### Workflow:
-
-- 使用「Pinterest」优先在「Amazon」上标记自己的物品。
-- 在构建完自己的物品画册后，定期在「Pinterest」上点击到「Amazon」再次购买即可。
+* 收集：想拥有 by [Pinterest Save Button](https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en)；已拥有，by Workflowy
+* 打包：按需求将物品整合 by Kit。 e.g. [tomorrow-kits](https://kit.co/will.wang.wang/kit-for-tomorrow)
+* 删除：断舍离
 
 
 ## What?
 
-- [Pinterest](https://www.pinterest.com/): 提供了对物品快速**标记**，**分类**，以及**连接**到购买渠道。所见即可得。个人物品虚拟仓库。(当前用法)
+- [Pinterest](https://www.pinterest.com/): 提供了对物品快速**标记**，**分类**，以及**连接**到购买渠道。所见即可得。个人物品虚拟仓库。(当前用法) 
 - [Amazon](https://www.amazon.com/): 美国网络购物最佳方案，具有全球化的扩展性。
 - [costco](https://www.cheatsheet.com/money-career/went-to-costco-first-time-and-loved-it.html/): a chain of membership-only **warehouse** clubs. 批发省钱居家。 缺点：无法在线购买。
 - [99 Ranch Market](https://www.99ranch.com/): an Asian food supermarket chain. 亚洲物品购买地。
+- [Kit.co](https://kit.co/)：a community to discover, discuss and get interesting products – grouped into kits – for activities like traveling, DJing, cooking, cycling and more.
+- [Workflowy](https://www.wikiwand.com/en/Workflowy): a text-based nested list
