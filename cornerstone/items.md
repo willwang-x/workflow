@@ -39,7 +39,7 @@
 
 ## FQAs
 
-#### Q: 作为收集工具，你是如何看到 Workflowy, Pinterest, Kit 的差异性？
+#### Q: 作为收集工具，Workflowy, Pinterest, Kit 对你个人使用的差异在哪里？
 
 A: 从收集，浏览，编辑和分享三者来看：
 
