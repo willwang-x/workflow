@@ -24,7 +24,7 @@
 ## How?
 
 * 收集：想拥有 by [Pinterest Save Button](https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en)；已拥有，by Workflowy
-* 打包：按需求将物品整合 by Kit。 e.g. [tomorrow-kits](https://kit.co/will.wang.wang/kit-for-tomorrow)
+* 整合：按需求将物品整合 by Kit。 e.g. [tomorrow-kits](https://kit.co/will.wang.wang/kit-for-tomorrow)
 * 删除：断舍离
 
 
