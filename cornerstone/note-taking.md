@@ -35,5 +35,6 @@ Note-taking: 如何高效做笔记？
 	* Base
 	* analogy
 	* visualization
+	* **difference**
 * FAQs
 
