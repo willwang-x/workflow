@@ -29,6 +29,7 @@ start with why, to connect it with what you already know
 * Intuition: It like ...  e.g. sidedictionary
 * visualization
 * Map
+* List of ...
 
 ## FAQs
 
