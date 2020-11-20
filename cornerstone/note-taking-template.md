@@ -12,24 +12,24 @@ the same as wiki link name
 
 ## Why 
 
-start with why, to connect it with what you already know
+* start with why, to connect it with what you already know
 
 ## How
 
-* wikihow 
+* [wikihow](https://www.wikihow.com/Main-Page) 
 * [learn-anything](https://learn-anything.xyz/)
 * **MAKE**: Minimum Actionable Knowledge and Experience
 * best practice
 
 ## What 
 
-* Base - short description
-* Rise - History
+* basics - short description
+* history
+* exmaple
 * analogy - connect 
-* Intuition: It like ...  e.g. sidedictionary
+* intuition: It like ...  e.g. sidedictionary
 * visualization
-* Map
-* List of ...
+* map - list of ...
 
 ## FAQs
 
