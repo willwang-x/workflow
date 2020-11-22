@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/AE4j1g2.png" alt="Meditate example" width=42%">
   </a>
   <br><br>
-Meditate: 如何冥想来帮助深度工作？
+Meditate: 如何冥想？
   <br><br>
 </h1>
 
@@ -12,7 +12,7 @@ Meditate: 如何冥想来帮助深度工作？
 
 ## Why 
 
-在看完[mindfulness](https://www.netflix.com/watch/81062191)，觉得有必要把冥想纳入routine中。有一个感性认知，如果说运动员需要在运动前拉伸，那么脑力工作者则需要在深度工作前冥想。好处是：
+在看完[mindfulness](https://www.netflix.com/watch/81062191)，觉得有必要把冥想纳入routine。有一个感性认知，如果说运动员需要在运动前拉伸，那么脑力工作者则需要在深度工作前冥想。好处是：
 
 * 保持大脑的敏锐
 * 保持用脑的可持续性
@@ -33,9 +33,14 @@ Meditate: 如何冥想来帮助深度工作？
 
 ## FAQs
 
-#### Q：What’s the Difference Between Meditation and Mindfulness?
+#### Q：Meditation vs Mindfulness?
 
 A：practice vs act
 
 * Meditation typically refers to formal, seated meditation **practice**. 
 * Mindfulness is the simple **act** of paying attention and noticing and being present in whatever you’re doing. 
+
+
+#### Q： 冥想 vs 发呆？
+
+A： 简单的说，发呆时注意力涣散、无目的，而冥想时则注意力高度集中、有目的。
