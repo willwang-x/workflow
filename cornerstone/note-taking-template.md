@@ -23,7 +23,7 @@ the same as wiki link name
 
 ## What 
 
-* basics - short description
+* overview / basics - short description
 * history
 * exmaple
 * analogy - connect 
