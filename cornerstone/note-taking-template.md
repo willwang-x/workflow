@@ -24,13 +24,15 @@ the same as wiki link name
 
 ## What 
 
-* overview / basics - short description
-* history
+* **overview** / basics - short description
+	* An overview is a **general summary** of something. An overview gives the **big picture**, while leaving out the minor details. 
+* **history**: 有助于理解其发展
 * exmaple
 * analogy - connect 
 * intuition: It like ...  e.g. sidedictionary
 * visualization
 * map - list of ...
+* **anatomy**: the structure of an organization, process etc or the way it works, e.g. [System anatomy](https://www.wikiwand.com/en/System_anatomy) 〔组织、进程等的〕体系，方法
 
 ## FAQs
 
