@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-	<a href="https://www.wikiwand.com/en/Meditation">
+	<a href="https://www.wikiwand.com/en/Meditation#/External_links">
   <img src="https://i.imgur.com/AE4j1g2.png" alt="Meditate example" width=42%">
   </a>
   <br><br>
@@ -27,7 +27,13 @@ Meditate: 如何冥想？
 
 ## What 
 
-* Headspace
+### overview
+
+Meditation is a practice where an individual uses a technique – such as mindfulness, or focusing the mind on a particular object, thought, or activity – to train attention and awareness, and achieve **a mentally clear and emotionally calm and stable state**.
+
+### terms
+
+* [Headspace](https://www.wikiwand.com/en/Headspace_(company))
 * breathe
 * [break](https://www.psychologytoday.com/us/blog/changepower/201704/how-do-work-breaks-help-your-brain-5-surprising-answers): 工作间的休息有很多好处。 
 
@@ -44,3 +50,19 @@ A：practice vs act
 #### Q： 冥想 vs 发呆？
 
 A： 简单的说，发呆时注意力涣散、无目的，而冥想时则注意力高度集中、有目的。
+
+
+#### Q: What are techniques?
+
+A: Here are [some](https://www.wikiwand.com/en/Meditation#/External_links):
+
+* [breathing](https://www.wikiwand.com/en/Diaphragmatic_breathing)
+* Concentration
+* Counting
+* Emptiness
+* Guided meditation
+* Higher consiciousness
+* Relaxation
+* Silence
+* Sound
+* Visualization
