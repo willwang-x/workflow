@@ -19,6 +19,7 @@ the same as wiki link name
 * [wikihow](https://www.wikihow.com/Main-Page) 
 * [learn-anything](https://learn-anything.xyz/)
 * **MAKE**: Minimum Actionable Knowledge and Experience
+	* cheatsheet, e.g. [ffmpeg](https://cheatography.com/)
 * best practice
 
 ## What 
