@@ -55,6 +55,7 @@ e.g.
 
 * map
 * visulization
+* taxonomy e.g. [humor](https://www.wikiwand.com/en/Humour#/Taxonomy)
 
 ## FAQs
 
