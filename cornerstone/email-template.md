@@ -37,6 +37,7 @@ Do a CRABS check:
 * Progress emails
 * Confirmation emails
 * [Follow-Up Email](https://www.indeed.com/career-advice/interviewing/follow-up-email-examples-after-interview)
+* Closing out an unprecedented year, e.g. Stub
 
 ## More 
 
