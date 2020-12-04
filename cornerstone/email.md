@@ -1,46 +1,77 @@
-# Email：如何高效处理邮件？
+<h1 align="center">
+<br>
+	<a href="https://www.wikiwand.com/en/Email">
+  <img src="https://i.imgur.com/UERjtLu.png" alt="email in Computer-mediated communication" width=42%">
+  </a>
+  <br><br>
+Email：如何高效处理邮件？ 
+  <br><br>
+</h1>
 
-![email in Computer-mediated communication](https://i.imgur.com/UERjtLu.png)
+
 
 ## Why
 
 邮件是现代人异步沟通最常用的方式之一。为了高效处理邮件，有一些原则：
 
-- 搜索大于整理。
-- All in one. 
-- 对自己的要求：At least 一天处理一次邮件。
+* **储存**：All in one；搜索大于整理。
+* **频率**：早晚各集中时间处理一次邮件。
 
 
 ## How 
 
-* 记录: 线性扫描邮件，遇到要脱离Client，记录在笔记软件中 
-* 分类: 对支线任务排序
-* 处理: 分类处理	
-	* 人相关：优先处理
-	* Newsletter: 退订，转成RSS订阅
-	* 其他：待摸索
-
+* **记录**: 线性**扫描**邮件，记录**Task**在笔记中
+* **排序**: 根据重要性排序Tasks
+* **处理**: **Research**, **Define** → **in progress**	
 
 ## What 
 
-- 一个集中提醒系统：所有App的可以通过邮件集中处理。e.g. weekly CSS
-- 一个异步交流系统：
+* **扫描**: 只看不行动。
+* **Task**: e.g. Reply to someone; Define x; 
+* **排序**: 及时 > 重要 > 其他。
+* **笔记**: 使用 workflowy 记录。
+* **Research**: Task dependency 
+* **Define**: Clear understanding of the term complete
+* **In progres**: 进入实施环节
 
-terms: 
-
-- **Archive**:  junk drawer that allows you to hide emails you’re not ready to delete quite yet from view
-- 退订: Only keep email types that is exclusively done by email client
-- 笔记软件：使用workflowy
 
 
-### Todo
+## FAQs 
 
-- [Superhuman](https://superhuman.com/): Best email client?
-- [Spark](https://sparkmailapp.com/): The best personal email client.
+#### Q: How to write Effective Emails？
 
-## Q&A 
+A: Getting People to **Read** and **Act** on Your Messages
 
-#### Q: 如何发一个好邮件？
+1. Don't **overcommunicate** by email.
+1. Make good use of **subject lines**.
+1. Keep messages **clear and brief**.
+1. Be **polite**.
+1. Check your **tone**.
+1. **Proofread**.
+
+source: [mindtools.com](https://www.mindtools.com/CommSkll/EmailCommunication.htm)
+
+#### Q: How to choose a email client?
+
+A: Depends on your need. Here are some: 
+
+* [Superhuman](https://superhuman.com/): Best email client?
+* [Spark](https://sparkmailapp.com/): The best personal email client.
+
+source: 
+
+* [What’s the best email app for the Mac (Updated for 2020)](https://9to5mac.com/2020/08/02/whats-the-best-email-app-for-mac/)
+
+#### Q: Comparision of eamil clients?
+
+A: [Comparison of email clients](https://www.wikiwand.com/en/Comparison_of_email_clients)
+
+#### Q: Any good tools for dealing with email?
+
+A: Here are some:
+
+* [Clean Email](https://clean.email/features) is an online bulk email cleaner that empowers you to take control of your mailbox.
+
 
 #### Q: 邮件有哪些类型？
 
@@ -52,8 +83,3 @@ A: Here are some I met:
 
 A: 不要在跳离邮件主线任务，使用Queue (= workflowy) 把邮件之后的事件队列中。然后再做处理。因为 邮件是主线任务。
 
-## More 
-
-* [What’s the best email app for the Mac (Updated for 2020)](https://9to5mac.com/2020/08/02/whats-the-best-email-app-for-mac/)
-* [Clean Email](https://clean.email/features) is an online bulk email cleaner that empowers you to take control of your mailbox.
-* [Comparison of email clients](https://www.wikiwand.com/en/Comparison_of_email_clients)
