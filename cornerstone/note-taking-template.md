@@ -4,9 +4,22 @@
   <img src="https://i.imgur.com/EFEoch9.png" alt="intuitive image or map" width=42%">
   </a>
   <br><br>
-shown as wiki link name 
+wiki-link-name 
   <br><br>
 </h1>
+
+<center>
+
+e.g. 
+
+**Note-taking** 
+
+(https://www.wikiwand.com/en/**Note-taking**) 
+
+</center>
+
+<br><br>
+
 
 > one line short description. [[wiki]()]
 
