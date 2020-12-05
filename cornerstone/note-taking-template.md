@@ -38,18 +38,18 @@ MAKE(**M**inimum **A**ctionable **K**nowledge and **E**xperience)
 
 ## What 
 
-### overview
+### Overview
 
-[An overview is a **general summary** of something. An overview gives the **big picture**, while leaving out the minor details. ]
+[An overview is a **general summary** of something. An overview gives the **big picture**, while **leaving out** the minor details. ]
 
-### others
+### Others
 
-* **history**: 有助于理解其发展
-* **example**: e.g.
-* **intuition**:  It like ...  e.g. sidedictionary
-* **anatomy**: [the structure of an organization, process etc or the way it works, e.g. [System anatomy](https://www.wikiwand.com/en/System_anatomy) 〔组织、进程等的〕体系，方法]
-* **taxonomy** e.g. [humor](https://www.wikiwand.com/en/Humour#/Taxonomy)
-* **visulization**
+* **History**: e.g.
+* **Example**: e.g.
+* **Intuition**:  It like ...  e.g. sidedictionary
+* **Anatomy**: the structure of an organization, process etc or the way it works, e.g. [System anatomy](https://www.wikiwand.com/en/System_anatomy) 
+* **Taxonomy**: e.g. [humor](https://www.wikiwand.com/en/Humour#/Taxonomy)
+* **Visulization**
 
 
 ## FAQs
