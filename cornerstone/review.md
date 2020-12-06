@@ -1,9 +1,12 @@
-# Review: 如何将经验变成积累？
-
-<center>
-<img src="https://i.imgur.com/NqLvyMc.png" alt="markdown" width="250"/>
-</center>
-
+<h1 align="center">
+<br>
+	<a href="https://www.wikiwand.com/en/Retrospective">
+  <img src="https://i.imgur.com/NqLvyMc.png" alt="review workflow" width=42%">
+  </a>
+  <br><br>
+Review: 如何将经验变成积累？
+  <br><br>
+</h1>
 
 
 > 不总结反思，为什么奢望成长？
@@ -91,3 +94,9 @@ A: Here are some things I need to review weeekly `(4+3+3)*7 = 70h`:
 * Todo next week (things)
 
 Compared with my short & long goal. ( app? )
+
+Source: [The Weekly Review](https://todoist.com/productivity-methods/weekly-review)
+
+#### Q: Review vs Retrospective?
+
+A: Maybe Retrospective is a better term to describe what I am trying to do.
