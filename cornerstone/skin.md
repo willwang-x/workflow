@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-	<a href="https://www.wikiwand.com/en/Moisturizer">
+	<a href="https://www.wikiwand.com/en/Moisturizer#/References">
   <img src="https://i.imgur.com/P53QyYU.png" alt="cosmetics" width=42%">
   </a>
   <br><br>
@@ -37,6 +37,10 @@ Part 2 - 4
 * Maintaining Healthy Skin with Your **Diet**
 * Maintaining Healthy Skin with **Lifestyle** Choices
 
+### More
+
+* How to Moisturize Your [Body](https://www.wikihow.life/Moisturize-Your-Body)
+
 ## What 
 
 > Cosmetics are a category of health and beauty products that are used to care for the face and body, or used to accentuate or change a person's appearance. [[wiki](https://www.wikiwand.com/en/Cosmetics )]
@@ -48,6 +52,8 @@ Part 2 - 4
 * 护手霜
 
 
-## More 
+## FQAs 
 
-* [My Kit for Skin](https://kit.co/will.wang.wang/kit-for-skin/labo-labo-super-pore)
+#### Q: What is your [skin care line](https://www.wikihow.com/Choose-a-Skin-Care-Line)?
+
+A: [My Kit for Skin](https://kit.co/will.wang.wang/kit-for-skin/labo-labo-super-pore)
