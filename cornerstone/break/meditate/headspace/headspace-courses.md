@@ -7,6 +7,7 @@
 * **Avoiding digital distractions**: Rethink your **notifications**; Set your display to **gray scale**; Get your **windows and tabs** under control 
 * What brings you the most joy?
 * **String theory**: Lauren - fiber artist
+* Where do **thoughts** come from? -visualization
 
 ## Basics 2
 
@@ -18,3 +19,4 @@ Discover more about your mind and start to deepen your practice.
 * If you miss a day, don't be too hard on yourself. Simply **∆** the next day. 
 * If we learn to let thoughts come and go, the mind will come to a natural place of **rest**.
 * Notice any **resistance** toward sleepiness and just see what **happens** when you give up that resistance.
+* If we are only interested in **results**, we **defeat** the **purpose**. The **process** is the purpose.
