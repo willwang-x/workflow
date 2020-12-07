@@ -1,25 +1,12 @@
 <h1 align="center">
 <br>
 	<a href="https://www.wikiwand.com/en/Note-taking">
-  <img src="https://i.imgur.com/EFEoch9.png" alt="intuitive image or map" width=42%">
+  <img src="https://i.imgur.com/EFEoch9.png" alt="intuition or map" width=42%">
   </a>
   <br><br>
-wiki-link-name 
+wiki-link-name, e.g. **Note-taking** from https://www.wikiwand.com/en/**Note-taking**
   <br><br>
 </h1>
-
-<center>
-
-e.g. 
-
-**Note-taking** 
-
-(https://www.wikiwand.com/en/**Note-taking**) 
-
-</center>
-
-<br><br>
-
 
 > one line short description. [[wiki]()]
 
@@ -44,8 +31,8 @@ MAKE(**M**inimum **A**ctionable **K**nowledge and **E**xperience)
 
 ### Others
 
-* **History**: e.g.
-* **Example**: e.g.
+* **History**: 
+* **Example**: 
 * **Intuition**:  It like ...  e.g. sidedictionary
 * **Anatomy**: the structure of an organization, process etc or the way it works, e.g. [System anatomy](https://www.wikiwand.com/en/System_anatomy) 
 * **Taxonomy**: e.g. [humor](https://www.wikiwand.com/en/Humour#/Taxonomy)
