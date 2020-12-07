@@ -1,4 +1,13 @@
-# Scale: 生活之秤 ｜ 哪一件更重要？
+<h1 align="center">
+<br>
+	<a href="https://www.wikiwand.com/en/Prioritization">
+  <img src="https://i.imgur.com/tkfwYmD.jpg" alt="which is more important" width=42%">
+  </a>
+  <br><br>
+Scale: 生活之秤 ｜ 哪一件更重要？
+  <br><br>
+</h1>
+
 
 > 所谓价值观，即 Which is more important?
 
@@ -11,6 +20,8 @@
 * 列出常见事情。
 * 根据长期和短期，重要和紧急坐标，来对事情排序。
 * 迭代事情优先级。(凡是犹豫，便是没有想清楚)
+
+more: [How to Prioritize](https://www.wikihow.com/Prioritize)
 
 ## What?
 
