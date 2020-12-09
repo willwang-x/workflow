@@ -12,6 +12,7 @@
 	* Practice making mindset **shifts** between roles.
 	* **Role-Clarifying** Prospection: thinking about the upcoming role you're about to take on
 	* **Rituals** can help ground us.	 	
+* The **gift** that keeps on **growing** - Maryah Greene (Houseplant Expert & Stylist)
 
 ## Basics 2
 
@@ -25,3 +26,4 @@ Discover more about your mind and start to deepen your practice.
 * Notice any **resistance** toward sleepiness and just see what **happens** when you give up that resistance.
 * If we are only interested in **results**, we **defeat** the **purpose**. The **process** is the purpose.
 * We typically **respond** to pain by **pushing** it away, which just creates more **tension**.
+* Thoughts can be **enjoyable**, but if we let the mind wander whenever it wants, we **miss** opportunities to be **mindful**.
