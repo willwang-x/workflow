@@ -14,6 +14,7 @@
 	* **Rituals** can help ground us.	 	
 * The **gift** that keeps on **growing** - Maryah Greene (Houseplant Expert & Stylist)
 * **Eclipses** explained: Just as the night sky is a **canvas** for the stars, so the mind is a canvas for our thoughts.
+* **Hit record**: in the zone with Composer [Mark Hadley](https://www.markhadleymusic.com/about) 
 
 ## Basics 2
 
@@ -29,3 +30,9 @@ Discover more about your mind and start to deepen your practice.
 1. We typically **respond** to pain by **pushing** it away, which just creates more **tension**.
 1. Thoughts can be **enjoyable**, but if we let the mind wander whenever it wants, we **miss** opportunities to be **mindful**.
 1. Look at how you can apply your **calm** and **clarity** to **everyday** life.
+
+## Basics 3
+
+Overcome some of the more common **obstacles** in meditation and learn how to apply **mindfulness** to your **everyday** life.
+
+* As soon as you find yourself **distracted** or lost in thought, gently bring you attention back to the **present**.
