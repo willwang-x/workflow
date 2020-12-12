@@ -15,6 +15,7 @@
 * The **gift** that keeps on **growing** - Maryah Greene (Houseplant Expert & Stylist)
 * **Eclipses** explained: Just as the night sky is a **canvas** for the stars, so the mind is a canvas for our thoughts.
 * **Hit record**: in the zone with Composer [Mark Hadley](https://www.markhadleymusic.com/about) 
+* Tech through the ages
 
 ## Basics 2
 
@@ -36,3 +37,4 @@ Discover more about your mind and start to deepen your practice.
 Overcome some of the more common **obstacles** in meditation and learn how to apply **mindfulness** to your **everyday** life.
 
 * As soon as you find yourself **distracted** or lost in thought, gently bring you attention back to the **present**.
+* Try to carry with you that **sense** of being **present** throughout your day.
