@@ -1,6 +1,16 @@
-# Checklist：如何避免犯错？
 
-> 把经验变成清单，别人也照做，这个叫做积累。
+<h1 align="center">
+<br>
+	<a href="https://www.wikiwand.com/en/Checklist">
+  <img src="https://i.imgur.com/Pku9WYv.png" alt="checklist logo" width=42%">
+  </a>
+  <br><br>
+Checklist
+  <br><br>
+</h1>
+
+> A checklist is a type of job aid used to **reduce failure** by compensating for potential **limits** of human **memory** and **attention**. [[wiki](https://www.wikiwand.com/en/Checklist)]
+
 
 ## Why
 
@@ -36,7 +46,35 @@
 * 第三日清单
 * 曼哈顿的花旗大厦
 
+
 ## What
+
+### Overview
+
+A checklist is a type of job aid used to **reduce failure** by compensating for potential **limits** of human **memory** and **attention**. It helps to ensure **consistency** and **completeness** in carrying out a task. A basic example is the "to do list". A more advanced checklist would be a **schedule**, which lays out tasks to be done according to time of day or other factors. A primary task in checklist is documentation of the task and **auditing** against the documentation.
+
+### Applications
+
+* Pre-flight checklists aid in aviation safety to ensure that critical items are not overlooked.
+* Used in quality assurance of **software engineering**, to check process compliance, code standardization and error prevention, and others.
+* Often used in **industry** in operations **procedures**
+* In **civil litigation** to deal with the complexity of discovery and motions practice. An example is the open-source litigation checklist.
+* [Post-surgical deaths in Scotland drop by a third, attributed to **a checklist**](https://news.ycombinator.com/item?id=19682451)
+
+* ...
+
+### Format
+
+Checklists are often presented as lists with small checkboxes down the left hand side of the page. A small tick or checkmark is drawn in the box after the item has been completed.
+
+Other formats are also sometimes used. Aviation checklists generally consist of a system and an action divided by a dashed line, and lack a checkbox as they are often read aloud and are usually intended to be reused.
+
+### Concern
+
+Excessive dependence of checklists may **hinder** performance when dealing with a **time-critical** situation, for example a medical emergency or an in-flight emergency. Checklists should not be used as a replacement for common sense. Intensive training including rote-learning of checklists can help integrate use of checklists with more adaptive and **flexible** problem solving **techniques**.
+
+
+### Terms
 
 * **执行清单**：步骤提醒。e.g. 出门前**伸**(身份证)**手**(手机)**要**(钥匙)**钱**(钱包)。
 * **核查清单**：检查是否遗漏重要环节，确保所有基础而重要的，跨领域，跨部门的工作能完成。e.g. 第三日清单
@@ -48,8 +86,10 @@
 * **曼哈顿的花旗大厦**：建筑时因为没有使用沟通清单，施工单位自己把焊接工艺改成了螺栓连接，却没有通知结果工程师。结果，一年后，一个研究大楼结构的学生发现建筑的承重强度不够，无法抵御大飓风，而这种飓风，每55年就会来一次。
 * **检查点**：在执行清单时，提前安排某个节点或者某个情况下要使用指定的清单。如开车的时候，突然仪表盘上的电瓶灯亮了，这是你要拿出汽车手册翻到电瓶仪表灯亮的那章看看怎么办。仪表灯亮就是检查点。e.g. 范海伦的一碗无棕色MM巧克力豆。
 
-## More
+## FAQs
+
+#### Q: Books about checklist?
+
+A: Here are some:
 
 * [《清单革命》](https://book.douban.com/subject/27168564/)
-* [Post-surgical deaths in Scotland drop by a third, attributed to **a checklist**](https://news.ycombinator.com/item?id=19682451): one example
-
