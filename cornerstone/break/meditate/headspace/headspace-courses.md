@@ -16,6 +16,7 @@
 * **Eclipses** explained: Just as the night sky is a **canvas** for the stars, so the mind is a canvas for our thoughts.
 * **Hit record**: in the zone with Composer [Mark Hadley](https://www.markhadleymusic.com/about) 
 * Tech through the ages
+* Is your job an **emotional rollercoaster**? **Emotions** at work with [Dr. Marc Brackett](https://www.marcbrackett.com/) (Founding Director, Yale Center for **[Emotional Intelligence](https://www.wikiwand.com/en/Emotional_intelligence)**)
 
 ## Basics 2
 
@@ -38,3 +39,4 @@ Overcome some of the more common **obstacles** in meditation and learn how to ap
 
 * As soon as you find yourself **distracted** or lost in thought, gently bring you attention back to the **present**.
 * Try to carry with you that **sense** of being **present** throughout your day.
+* Sometimes it's really **easy** to forget to be **aware**. Try to remind yourself to come back to the **present**.
