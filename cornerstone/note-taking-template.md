@@ -8,11 +8,16 @@ wiki-link-name, e.g. **Note-taking** from https://www.wikiwand.com/en/**Note-tak
   <br><br>
 </h1>
 
-> one line short description. [[wiki]()]
+> one-line-description. [[wiki]()]
 
 ## Why 
 
-start with why, to connect it with what you already know
+[start with why, to connect it with what you already know]
+
+* Google: keyword + 
+	* why
+	* benefit
+	* reason to use  
 
 ## How
 
@@ -20,8 +25,15 @@ MAKE(**M**inimum **A**ctionable **K**nowledge and **E**xperience)
 
 * [wikihow](https://www.wikihow.com/Main-Page) 
 * [learn-anything](https://learn-anything.xyz/)
-* best practice
-* cheatsheet, e.g. [ffmpeg](https://cheatography.com/)
+* [linkedin.com/learning](https://www.linkedin.com/learning/me)
+* [google](https://www.google.com/imghp?hl=en): keyword + 
+	* cheatsheet 
+	* infographic
+	* intuition
+	* why
+	* how
+	* what
+	* best practice
 
 ## What 
 
@@ -31,12 +43,12 @@ MAKE(**M**inimum **A**ctionable **K**nowledge and **E**xperience)
 
 ### Others
 
-* **History**: 
-* **Example**: 
-* **Intuition**:  It like ...  e.g. sidedictionary
-* **Anatomy**: the structure of an organization, process etc or the way it works, e.g. [System anatomy](https://www.wikiwand.com/en/System_anatomy) 
-* **Taxonomy**: e.g. [humor](https://www.wikiwand.com/en/Humour#/Taxonomy)
-* **Visulization**
+* History
+* Example
+* Intuition
+* Anatomy 
+* Taxonomy
+* Visulization
 
 
 ## FAQs
