@@ -18,6 +18,7 @@
 * Tech through the ages
 * Is your job an **emotional rollercoaster**? **Emotions** at work with [Dr. Marc Brackett](https://www.marcbrackett.com/) (Founding Director, Yale Center for **[Emotional Intelligence](https://www.wikiwand.com/en/Emotional_intelligence)**)
 * Headspace is coming to Netflix!
+* work-from-home improvements: How to focus better while working from home with [Dr. Sahar Yousef](http://www.saharyousef.com/about): drains & unwind
 
 ## Basics 2
 
@@ -42,3 +43,4 @@ Overcome some of the more common **obstacles** in meditation and learn how to ap
 * Try to carry with you that **sense** of being **present** throughout your day.
 * Sometimes it's really **easy** to forget to be **aware**. Try to remind yourself to come back to the **present**.
 * Take the time to check in with the **body** to notice how it **feels**. You'll be **surprised** by what a **difference** it makes.
+* When you get **lost** in thought, all you have to do is bring the **attention** back again to whatever you're **doing**.
