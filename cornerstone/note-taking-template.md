@@ -12,12 +12,12 @@ wiki-link-name, e.g. **Note-taking** from https://www.wikiwand.com/en/**Note-tak
 
 ## Why 
 
-[start with why, to connect it with what you already know]
+[[start with why](https://www.youtube.com/watch?v=IPYeCltXpxw), to connect it with what you already know]
 
 * Google: keyword + 
-	* why
-	* benefit
-	* reason to use  
+	* Why should we care?
+	* Why is it important?
+	* What are the benefits?
 
 ## How
 
