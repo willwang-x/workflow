@@ -21,6 +21,7 @@
 * work-from-home improvements: How to focus better while working from home with [Dr. Sahar Yousef](http://www.saharyousef.com/about): drains & unwind
 * Lay the groundwork: 1) Assess lighting and temperature. 2) Outdoor plants prefer 70 - 90 F / 21 - 32 C. 3) Start with a container bed or outdoor pot
 * Hibernation mode activated.
+* Passion project with Dr. Jon Jachimowicz: 1) Passion is not fixed. 2) Focus on what you care about. 3) Make time and stick with it.
 
 ## Basics 2
 
@@ -48,3 +49,4 @@ Overcome some of the more common **obstacles** in meditation and learn how to ap
 * When you get **lost** in thought, all you have to do is bring the **attention** back again to whatever you're **doing**.
 * Use **reminders** to help you realize when you're **distracted** and come back to whatever you are **doing**.
 * Be aware of when you go from sitting to **standing**. We often forget to be **mindful** of these **automatic actions**.
+* How far can you get in your day before the mind **wanders**?
