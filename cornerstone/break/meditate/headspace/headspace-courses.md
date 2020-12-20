@@ -23,6 +23,7 @@
 * Hibernation mode activated.
 * Passion project with Dr. Jon Jachimowicz: 1) Passion is not fixed. 2) Focus on what you care about. 3) Make time and stick with it.
 * How do you define love?
+* Foraging ahead with Alan Bergo
 
 ## Basics 2
 
@@ -52,3 +53,4 @@ Overcome some of the more common **obstacles** in meditation and learn how to ap
 * Be aware of when you go from sitting to **standing**. We often forget to be **mindful** of these **automatic actions**.
 * How far can you get in your day before the mind **wanders**?
 * Realize how **different** things feel when you're mindful rather than wanting to do something else.
+* When we are **present**, the mind is naturally **calm**, and we experience more **quiet**, **clarity**, and **perspective**. 
