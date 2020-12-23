@@ -24,6 +24,7 @@
 * Passion project with Dr. Jon Jachimowicz: 1) Passion is not fixed. 2) Focus on what you care about. 3) Make time and stick with it.
 * How do you define love?
 * Foraging ahead with Alan Bergo
+* The power of [community](https://www.wikiwand.com/en/Community)
 
 ## Basics 2
 
