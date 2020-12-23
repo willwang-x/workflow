@@ -55,3 +55,7 @@ Overcome some of the more common **obstacles** in meditation and learn how to ap
 * How far can you get in your day before the mind **wanders**?
 * Realize how **different** things feel when you're mindful rather than wanting to do something else.
 * When we are **present**, the mind is naturally **calm**, and we experience more **quiet**, **clarity**, and **perspective**. 
+
+## Others
+
+* Thinking about thinking is sitll just thinking. Let it go and come back to the object of **focus**.
