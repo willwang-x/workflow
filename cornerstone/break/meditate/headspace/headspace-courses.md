@@ -25,6 +25,8 @@
 * How do you define love?
 * Foraging ahead with Alan Bergo
 * The power of [community](https://www.wikiwand.com/en/Community)
+* [Monstera deliciosa](https://www.wikiwand.com/en/Monstera_deliciosa): cultivated for its edible fruit which tastes like a combination of banana and pineapple.
+ 
 
 ## Basics 2
 
@@ -55,6 +57,12 @@ Overcome some of the more common **obstacles** in meditation and learn how to ap
 * How far can you get in your day before the mind **wanders**?
 * Realize how **different** things feel when you're mindful rather than wanting to do something else.
 * When we are **present**, the mind is naturally **calm**, and we experience more **quiet**, **clarity**, and **perspective**. 
+
+## Prioritization
+
+When there's a lot **competing** for your attention, get some **clarity** on what really **matters** to you.
+
+* Even if it's just having the same drink each morning, limiting **choices** allows room for more **clarity** in the mind.
 
 ## Others
 
