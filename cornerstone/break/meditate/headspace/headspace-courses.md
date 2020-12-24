@@ -26,6 +26,7 @@
 * Foraging ahead with Alan Bergo
 * The power of [community](https://www.wikiwand.com/en/Community)
 * [Monstera deliciosa](https://www.wikiwand.com/en/Monstera_deliciosa): cultivated for its edible fruit which tastes like a combination of banana and pineapple.
+* Winter wonderland: the wonder of a snowflake
  
 
 ## Basics 2
@@ -67,3 +68,4 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 ## Others
 
 * Thinking about thinking is sitll just thinking. Let it go and come back to the object of **focus**.
+* If you only had this day, what would you do **first**?
