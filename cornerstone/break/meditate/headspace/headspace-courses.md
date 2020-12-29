@@ -28,6 +28,8 @@
 * [Monstera deliciosa](https://www.wikiwand.com/en/Monstera_deliciosa): cultivated for its edible fruit which tastes like a combination of banana and pineapple.
 * Winter wonderland: the wonder of a snowflake
 * Social Media [Detox](https://www.wikiwand.com/en/Detoxification) with [Reem](https://www.instagram.com/reemedan/?hl=en): Cold Turkey; Productive; Motivated; DoNot Disturb; NewReem WhoDis; NatureVs Nurture; Blessed
+* How do you know if you're making **progress**?
+* Where does **coffee** come from? Coffee roaster Anthony Jolly
  
 
 ## Basics 2
@@ -65,9 +67,8 @@ Overcome some of the more common **obstacles** in meditation and learn how to ap
 When there's a lot **competing** for your attention, get some **clarity** on what really **matters** to you.
 
 * Even if it's just having the same drink each morning, limiting **choices** allows room for more **clarity** in the mind.
-
-## Others
-
 * Thinking about thinking is sitll just thinking. Let it go and come back to the object of **focus**.
 * If you only had this day, what would you do **first**?
 * Without a clear intention, it's difficult not to get distracted. Take time to reflect on your motivation.
+* It we're distracted by the **past** or by what could happen in the **future**, then it's very difficult to be present.
+* Commit to **stopping three times** throughout the day just to **pause** and let go of your thoughts.
