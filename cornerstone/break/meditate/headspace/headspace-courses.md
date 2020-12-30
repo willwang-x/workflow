@@ -30,6 +30,7 @@
 * Social Media [Detox](https://www.wikiwand.com/en/Detoxification) with [Reem](https://www.instagram.com/reemedan/?hl=en): Cold Turkey; Productive; Motivated; DoNot Disturb; NewReem WhoDis; NatureVs Nurture; Blessed
 * How do you know if you're making **progress**?
 * Where does **coffee** come from? Coffee roaster Anthony Jolly
+* Page turner: The Papermaking process
  
 
 ## Basics 2
@@ -72,3 +73,4 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 * Without a clear intention, it's difficult not to get distracted. Take time to reflect on your motivation.
 * It we're distracted by the **past** or by what could happen in the **future**, then it's very difficult to be present.
 * Commit to **stopping three times** throughout the day just to **pause** and let go of your thoughts.
+* When given the **choice**, prioritize the things you **truly want** to do, not just those you think you **should**.
