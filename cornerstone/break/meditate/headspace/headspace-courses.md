@@ -31,6 +31,7 @@
 * How do you know if you're making **progress**?
 * Where does **coffee** come from? Coffee roaster Anthony Jolly
 * Page turner: The Papermaking process
+* What 2020 taught us: How did your life change in 2020? What's something new you tried in 2020?
  
 
 ## Basics 2
@@ -74,3 +75,4 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 * It we're distracted by the **past** or by what could happen in the **future**, then it's very difficult to be present.
 * Commit to **stopping three times** throughout the day just to **pause** and let go of your thoughts.
 * When given the **choice**, prioritize the things you **truly want** to do, not just those you think you **should**.
+* Recognize your **distractions**, let them **go**, and return to the **task** at hand.
