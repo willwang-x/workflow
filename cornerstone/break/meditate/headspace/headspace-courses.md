@@ -32,6 +32,7 @@
 * Where does **coffee** come from? Coffee roaster Anthony Jolly
 * Page turner: The Papermaking process
 * What 2020 taught us: How did your life change in 2020? What's something new you tried in 2020?
+* What's your favorite body part? What advice would you give your younger self about your physical appearance? What is your greatest success?
  
 
 ## Basics 2
@@ -76,3 +77,4 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 * Commit to **stopping three times** throughout the day just to **pause** and let go of your thoughts.
 * When given the **choice**, prioritize the things you **truly want** to do, not just those you think you **should**.
 * Recognize your **distractions**, let them **go**, and return to the **task** at hand.
+* It's great to **aim high**, but don't **overextend** yourself or **make commitments** you can't keep.
