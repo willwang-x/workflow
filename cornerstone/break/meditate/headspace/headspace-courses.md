@@ -33,6 +33,8 @@
 * Page turner: The Papermaking process
 * What 2020 taught us: How did your life change in 2020? What's something new you tried in 2020?
 * What's your favorite body part? What advice would you give your younger self about your physical appearance? What is your greatest success?
+* Weathering the storm: blue sky vs stormy
+* Your mind on **Meditation** with [Dr. Yewande Pearse](https://www.linkedin.com/in/dr-yewande-pearse-03702643/): **Caudate**, **Entorhinal Cortex**, **Medial Prefrontal Cortex**, Gray Matter
  
 
 ## Basics 2
@@ -54,27 +56,29 @@ Discover more about your mind and start to deepen your practice.
 
 Overcome some of the more common **obstacles** in meditation and learn how to apply **mindfulness** to your **everyday** life.
 
-* As soon as you find yourself **distracted** or lost in thought, gently bring you attention back to the **present**.
-* Try to carry with you that **sense** of being **present** throughout your day.
-* Sometimes it's really **easy** to forget to be **aware**. Try to remind yourself to come back to the **present**.
-* Take the time to check in with the **body** to notice how it **feels**. You'll be **surprised** by what a **difference** it makes.
-* When you get **lost** in thought, all you have to do is bring the **attention** back again to whatever you're **doing**.
-* Use **reminders** to help you realize when you're **distracted** and come back to whatever you are **doing**.
-* Be aware of when you go from sitting to **standing**. We often forget to be **mindful** of these **automatic actions**.
-* How far can you get in your day before the mind **wanders**?
-* Realize how **different** things feel when you're mindful rather than wanting to do something else.
-* When we are **present**, the mind is naturally **calm**, and we experience more **quiet**, **clarity**, and **perspective**. 
+1. As soon as you find yourself **distracted** or lost in thought, gently bring you attention back to the **present**.
+1. Try to carry with you that **sense** of being **present** throughout your day.
+1. Sometimes it's really **easy** to forget to be **aware**. Try to remind yourself to come back to the **present**.
+1. Take the time to check in with the **body** to notice how it **feels**. You'll be **surprised** by what a **difference** it makes.
+1. When you get **lost** in thought, all you have to do is bring the **attention** back again to whatever you're **doing**.
+1. Use **reminders** to help you realize when you're **distracted** and come back to whatever you are **doing**.
+1. Be aware of when you go from sitting to **standing**. We often forget to be **mindful** of these **automatic actions**.
+1. How far can you get in your day before the mind **wanders**?
+1. Realize how **different** things feel when you're mindful rather than wanting to do something else.
+1. When we are **present**, the mind is naturally **calm**, and we experience more **quiet**, **clarity**, and **perspective**. 
 
 ## Prioritization
 
 When there's a lot **competing** for your attention, get some **clarity** on what really **matters** to you.
 
-* Even if it's just having the same drink each morning, limiting **choices** allows room for more **clarity** in the mind.
-* Thinking about thinking is sitll just thinking. Let it go and come back to the object of **focus**.
-* If you only had this day, what would you do **first**?
-* Without a clear intention, it's difficult not to get distracted. Take time to reflect on your motivation.
-* It we're distracted by the **past** or by what could happen in the **future**, then it's very difficult to be present.
-* Commit to **stopping three times** throughout the day just to **pause** and let go of your thoughts.
-* When given the **choice**, prioritize the things you **truly want** to do, not just those you think you **should**.
-* Recognize your **distractions**, let them **go**, and return to the **task** at hand.
-* It's great to **aim high**, but don't **overextend** yourself or **make commitments** you can't keep.
+1. Even if it's just having the same drink each morning, limiting **choices** allows room for more **clarity** in the mind.
+1. Thinking about thinking is sitll just thinking. Let it go and come back to the object of **focus**.
+1. If you only had this day, what would you do **first**?
+1. Without a clear intention, it's difficult not to get distracted. Take time to reflect on your motivation.
+1. It we're distracted by the **past** or by what could happen in the **future**, then it's very difficult to be present.
+1. Commit to **stopping three times** throughout the day just to **pause** and let go of your thoughts.
+1. When given the **choice**, prioritize the things you **truly want** to do, not just those you think you **should**.
+1. Recognize your **distractions**, let them **go**, and return to the **task** at hand.
+1. It's great to **aim high**, but don't **overextend** yourself or **make commitments** you can't keep.
+1. At the end of the day, just pause and look at **your to-do list**. **What worked? What didn't work?**
+1. When we cut through **the chatter of the mind**, the things that **matter** to us most become **clear**. 
