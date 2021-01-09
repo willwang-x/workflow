@@ -35,6 +35,7 @@
 * What's your favorite body part? What advice would you give your younger self about your physical appearance? What is your greatest success?
 * Weathering the storm: blue sky vs stormy
 * Your mind on **Meditation** with [Dr. Yewande Pearse](https://www.linkedin.com/in/dr-yewande-pearse-03702643/): **Caudate**, **Entorhinal Cortex**, **Medial Prefrontal Cortex**, Gray Matter
+* A lasting legacy: What's the most important lesson you've learned in life? Looking back, what in your life didn't work out the way you'd planned?
  
 
 ## Basics 2
@@ -82,3 +83,7 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 1. It's great to **aim high**, but don't **overextend** yourself or **make commitments** you can't keep.
 1. At the end of the day, just pause and look at **your to-do list**. **What worked? What didn't work?**
 1. When we cut through **the chatter of the mind**, the things that **matter** to us most become **clear**. 
+
+## Today's Meditation
+
+* The challenge is to **live freely**, as though we will **live forever**, and yet **gratefully**, as though life could **end at any time**.
