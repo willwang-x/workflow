@@ -37,7 +37,7 @@
 * Your mind on **Meditation** with [Dr. Yewande Pearse](https://www.linkedin.com/in/dr-yewande-pearse-03702643/): **Caudate**, **Entorhinal Cortex**, **Medial Prefrontal Cortex**, Gray Matter
 * A lasting legacy: What's the most important lesson you've learned in life? Looking back, what in your life didn't work out the way you'd planned?
 * Why morning routines matter?
-* Move your mind with Dr. Yewande Pearse: Neurogenesis, Flex your brain
+* Move your mind with Dr. Yewande Pearse: Neurogenesis, Flex your brain, [How Exercise Affects Your Brain](https://www.scientificamerican.com/article/how-exercise-affects-your-brain/)
  
 
 ## Basics 2
