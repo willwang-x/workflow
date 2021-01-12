@@ -37,6 +37,7 @@
 * Your mind on **Meditation** with [Dr. Yewande Pearse](https://www.linkedin.com/in/dr-yewande-pearse-03702643/): **Caudate**, **Entorhinal Cortex**, **Medial Prefrontal Cortex**, Gray Matter
 * A lasting legacy: What's the most important lesson you've learned in life? Looking back, what in your life didn't work out the way you'd planned?
 * Why morning routines matter?
+* Move your mind with Dr. Yewande Pearse: Neurogenesis, Flex your brain
  
 
 ## Basics 2
@@ -94,3 +95,4 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 ## Today's Meditation
 
 * The challenge is to **live freely**, as though we will **live forever**, and yet **gratefully**, as though life could **end at any time**.
+* Take the time to **notice** what it is that **throws** you off balance.
