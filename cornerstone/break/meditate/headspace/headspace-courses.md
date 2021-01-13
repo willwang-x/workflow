@@ -38,7 +38,11 @@
 * A lasting legacy: What's the most important lesson you've learned in life? Looking back, what in your life didn't work out the way you'd planned?
 * Why morning routines matter?
 * Move your mind with Dr. Yewande Pearse: Neurogenesis, Flex your brain, [How Exercise Affects Your Brain](https://www.scientificamerican.com/article/how-exercise-affects-your-brain/)
- 
+* The key to [confidence](https://www.wikiwand.com/en/Confidence): [quiet confidence](https://www.iris.xyz/growth/the-attraction-of-quiet-confidence/#:~:text=Quiet%20confidence%20means%20that%20you,and%20results%20speak%20for%20you.) 
+
+## Today's Meditation
+
+* The challenge is to **live freely**, as though we will **live forever**, and yet **gratefully**, as though life could **end at any time**.
 
 ## Basics 2
 
@@ -91,8 +95,6 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 > Work towards a more balanced mind, recognize calmness and become less reactive, even in tough situations.
 
 * Be clear about your **intention** to carry **awareness** with you.
-
-## Today's Meditation
-
-* The challenge is to **live freely**, as though we will **live forever**, and yet **gratefully**, as though life could **end at any time**.
 * Take the time to **notice** what it is that **throws** you off balance.
+* All we're doing is reminding ourselves that **balance** is innate to the body and the mind.
+
