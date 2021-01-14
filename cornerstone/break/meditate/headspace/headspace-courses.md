@@ -39,6 +39,7 @@
 * Why morning routines matter?
 * Move your mind with Dr. Yewande Pearse: Neurogenesis, Flex your brain, [How Exercise Affects Your Brain](https://www.scientificamerican.com/article/how-exercise-affects-your-brain/)
 * The key to [confidence](https://www.wikiwand.com/en/Confidence): [quiet confidence](https://www.iris.xyz/growth/the-attraction-of-quiet-confidence/#:~:text=Quiet%20confidence%20means%20that%20you,and%20results%20speak%20for%20you.) 
+* The tree of life: [coconut](https://www.wikiwand.com/en/Coconut) - Impermanence 
 
 ## Today's Meditation
 
@@ -97,4 +98,5 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 * Be clear about your **intention** to carry **awareness** with you.
 * Take the time to **notice** what it is that **throws** you off balance.
 * All we're doing is reminding ourselves that **balance** is innate to the body and the mind.
+* Make wise **decisions** based on your own **experiences**, not just what other people tell you.
 
