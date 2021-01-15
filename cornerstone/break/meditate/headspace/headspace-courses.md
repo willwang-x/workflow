@@ -40,6 +40,7 @@
 * Move your mind with Dr. Yewande Pearse: Neurogenesis, Flex your brain, [How Exercise Affects Your Brain](https://www.scientificamerican.com/article/how-exercise-affects-your-brain/)
 * The key to [confidence](https://www.wikiwand.com/en/Confidence): [quiet confidence](https://www.iris.xyz/growth/the-attraction-of-quiet-confidence/#:~:text=Quiet%20confidence%20means%20that%20you,and%20results%20speak%20for%20you.) 
 * The tree of life: [coconut](https://www.wikiwand.com/en/Coconut) - Impermanence 
+* 5 tips for at-home workouts: 1) Choose your workout space. 2) Schedule your workouts. 3) Start with what you have. 4) Mix it up. 5) Set your intention.
 
 ## Today's Meditation
 
@@ -99,4 +100,5 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 * Take the time to **notice** what it is that **throws** you off balance.
 * All we're doing is reminding ourselves that **balance** is innate to the body and the mind.
 * Make wise **decisions** based on your own **experiences**, not just what other people tell you.
+* As soon as we **turn our attention around** and remember other people, we begin to feel more **balanced**. 
 
