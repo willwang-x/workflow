@@ -23,9 +23,11 @@ wiki-link-name, e.g. **Note-taking** from https://www.wikiwand.com/en/**Note-tak
 
 MAKE(**M**inimum **A**ctionable **K**nowledge and **E**xperience)
 
-* [wikihow](https://www.wikihow.com/Main-Page) 
-* [learn-anything](https://learn-anything.xyz/)
-* [linkedin.com/learning](https://www.linkedin.com/learning/me)
+* [wikihow](https://www.wikihow.com/Main-Page) - 生活
+* [learn-anything](https://learn-anything.xyz/) - 理论
+* [linkedin.com/learning](https://www.linkedin.com/learning/me) - 职业技能
+* [HBR](https://store.hbr.org/tools/) - 职业理论
+* reddit - 话题
 * [google](https://www.google.com/imghp?hl=en): keyword + 
 	* cheatsheet 
 	* infographic
@@ -34,7 +36,6 @@ MAKE(**M**inimum **A**ctionable **K**nowledge and **E**xperience)
 	* how
 	* what
 	* best practice
-* [HBR](https://store.hbr.org/tools/)
 
 ## What 
 
