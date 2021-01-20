@@ -43,6 +43,7 @@
 * 5 tips for at-home workouts: 1) Choose your workout space. 2) Schedule your workouts. 3) Start with what you have. 4) Mix it up. 5) Set your intention.
 * How to manage [emotional eating](https://www.wikiwand.com/en/Emotional_eating)
 * Talk less, Do more
+* Connect the dots: Andy's advice for aligning your body, speech, and mind
 
 ## Today's Meditation
 
@@ -107,4 +108,5 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 * As soon as we **turn our attention around** and remember other people, we begin to feel more **balanced**.
 * Notice how you **feel** when you do something **kind** for another person. 
 * The more that we can stay in the "**moment to moment**", the **greater sense of balance** we'll have in our lives.
+* Commit to finding a sense of **play**, even if it's for just five minutes a day.
 
