@@ -34,6 +34,7 @@ MAKE(**M**inimum **A**ctionable **K**nowledge and **E**xperience)
 	* how
 	* what
 	* best practice
+* [HBR](https://store.hbr.org/tools/)
 
 ## What 
 
