@@ -45,7 +45,11 @@
 * Talk less, Do more
 * Connect the dots: Andy's advice for aligning your body, speech, and mind
 * How meditation rewires the brain with Dr. Tracy Brandmeyer
+
+## The wake up - Thursday 
+
 * Spore to Spore: The peculiar and fascinating life cycle ofc **[mushrooms](https://www.wikiwand.com/en/Mushroom)**
+
 
 ## Today's Meditation
 
@@ -103,14 +107,14 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 
 > Work towards a more balanced mind, recognize calmness and become less reactive, even in tough situations.
 
-* Be clear about your **intention** to carry **awareness** with you.
-* Take the time to **notice** what it is that **throws** you off balance.
-* All we're doing is reminding ourselves that **balance** is innate to the body and the mind.
-* Make wise **decisions** based on your own **experiences**, not just what other people tell you.
-* As soon as we **turn our attention around** and remember other people, we begin to feel more **balanced**.
-* Notice how you **feel** when you do something **kind** for another person. 
-* The more that we can stay in the "**moment to moment**", the **greater sense of balance** we'll have in our lives.
-* Commit to finding a sense of **play**, even if it's for just five minutes a day.
-* When you feel an **emotion** get too strong, you can be **present** with that emotion and not let it **overwhelm** you.
-* Reflect on the different **supports** of finding a greater sense of **inner balance** and implement those into your life.
+1. Be clear about your **intention** to carry **awareness** with you.
+1. Take the time to **notice** what it is that **throws** you off balance.
+1. All we're doing is reminding ourselves that **balance** is innate to the body and the mind.
+1. Make wise **decisions** based on your own **experiences**, not just what other people tell you.
+1. As soon as we **turn our attention around** and remember other people, we begin to feel more **balanced**.
+1. Notice how you **feel** when you do something **kind** for another person. 
+1. The more that we can stay in the "**moment to moment**", the **greater sense of balance** we'll have in our lives.
+1. Commit to finding a sense of **play**, even if it's for just five minutes a day.
+1. When you feel an **emotion** get too strong, you can be **present** with that emotion and not let it **overwhelm** you.
+1. Reflect on the different **supports** of finding a greater sense of **inner balance** and implement those into your life.
 
