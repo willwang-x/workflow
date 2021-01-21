@@ -45,6 +45,7 @@
 * Talk less, Do more
 * Connect the dots: Andy's advice for aligning your body, speech, and mind
 * How meditation rewires the brain with Dr. Tracy Brandmeyer
+* Spore to Spore: The peculiar and fascinating life cycle ofc **[mushrooms](https://www.wikiwand.com/en/Mushroom)**
 
 ## Today's Meditation
 
@@ -111,4 +112,5 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 * The more that we can stay in the "**moment to moment**", the **greater sense of balance** we'll have in our lives.
 * Commit to finding a sense of **play**, even if it's for just five minutes a day.
 * When you feel an **emotion** get too strong, you can be **present** with that emotion and not let it **overwhelm** you.
+* Reflect on the different **supports** of finding a greater sense of **inner balance** and implement those into your life.
 
