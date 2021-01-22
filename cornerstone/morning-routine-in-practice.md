@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/TS8j2FK.png" alt="A perfect morning" width=42%">
   </a>
   <br><br>
-Morning: 如何充满活力？
+Morning routine in Practice: <br>如何充满活力？
   <br><br>
 </h1>
 
@@ -26,7 +26,7 @@ Morning: 如何充满活力？
 * 实践：看是否适合自己
 * 更新：修改直到适合自己
 
-目前的workflow：
+workflow with [BGM](https://open.spotify.com/playlist/34183eqUajA5kvizaXAFR2?si=pWZDbDHrTcu8ZLshZABWAw)：
 
 1. 唤醒嗅觉，起床呼吸新鲜空气
 1. 唤醒身体，做运动
@@ -46,6 +46,14 @@ Morning: 如何充满活力？
 * **早餐**：能提供5小时身体能量和注意力能量。e.g. 星巴克的早晨和一杯Americano
 * **到工作台**：希望工作地点和家有一个步行距离。喜欢散步时想一想今天做的事情。工作台需要前一天睡前准备好。
 
-## More 
+## FAQs
+
+
+#### Q: Good resources about morning routine? 
+
+A: 
 
 * [39 Morning People Share the Extremely Productive Things They Do While You’re Sleeping](https://www.self.com/story/morning-people-share-their-routines)
+* [The Morning Routines Of The Most Successful People](https://www.fastcompany.com/3033652/the-morning-routines-of-the-most-successful-people)
+* [The Ultimate Morning Routine to Make You Happy And Productive All Day](https://www.lifehack.org/768258/morning-routine-to-make-your-day)
+* [A book and website to help you create a morning routine that works for you](https://mymorningroutine.com/)
