@@ -50,6 +50,9 @@
 
 * Spore to Spore: The peculiar and fascinating life cycle ofc **[mushrooms](https://www.wikiwand.com/en/Mushroom)**
 
+## The wake up - Friday
+
+* Portraits of Play: [Rollerblading](https://www.wikiwand.com/en/Roller_skating) - Think of an activity that brings you joy. What's stopping you from doing it today, even for a few minutes?
 
 ## Today's Meditation
 
@@ -118,3 +121,10 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 1. When you feel an **emotion** get too strong, you can be **present** with that emotion and not let it **overwhelm** you.
 1. Reflect on the different **supports** of finding a greater sense of **inner balance** and implement those into your life.
 
+## Finding Focus
+
+![Finding Focus](https://i.imgur.com/gsyEawj.png)
+
+> Familiarize yourself with a relaxed, precise kind of focus. Neither too intense, or too loose.
+
+* By applying moments of **focus** throughout your day, you **strengthen your focus** within the **exercise** itself.
