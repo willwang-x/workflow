@@ -54,6 +54,11 @@
 
 * Portraits of Play: [Rollerblading](https://www.wikiwand.com/en/Roller_skating) - Think of an activity that brings you joy. What's stopping you from doing it today, even for a few minutes?
 
+## The wake up - Saturday
+
+* Stretches to start your morning: 1) Spinal Twist 2) Happy Baby 3) Child's Pose 4) Forward Fold
+* 
+
 ## Today's Meditation
 
 * The challenge is to **live freely**, as though we will **live forever**, and yet **gratefully**, as though life could **end at any time**.
@@ -128,3 +133,4 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 > Familiarize yourself with a relaxed, precise kind of focus. Neither too intense, or too loose.
 
 * By applying moments of **focus** throughout your day, you **strengthen your focus** within the **exercise** itself.
+* Pause at least once a day to take a nice, deep breath and remind yourself of **those points** **throughout your body**.
