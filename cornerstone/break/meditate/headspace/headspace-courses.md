@@ -46,6 +46,10 @@
 * Connect the dots: Andy's advice for aligning your body, speech, and mind
 * How meditation rewires the brain with Dr. Tracy Brandmeyer
 
+## The wake up - Tuesday
+
+* Dancing on Air with Karynn Sucaldito @thefruitbat 
+
 ## The wake up - Thursday 
 
 * Spore to Spore: The peculiar and fascinating life cycle ofc **[mushrooms](https://www.wikiwand.com/en/Mushroom)**
@@ -134,3 +138,4 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 
 * By applying moments of **focus** throughout your day, you **strengthen your focus** within the **exercise** itself.
 * Pause at least once a day to take a nice, deep breath and remind yourself of **those points** **throughout your body**.
+* Think of just **resting** the **attention** in a space that's already there. 
