@@ -38,6 +38,12 @@ workflow with [BGM](https://open.spotify.com/playlist/34183eqUajA5kvizaXAFR2?si=
 
 ## What 
 
+<center>
+<a href="https://kit.co/will.wang.wang/morning-routine">
+<img src="https://i.imgur.com/TxStkAA.jpg" alt="A perfect morning" width=24%">
+</a>
+</center>
+
 * **空气**：起床第一件事情，就是天台或者户外呼吸新鲜空气。会让人对起床美好的嗅觉记忆。
 * **运动**：需要一个轻量短时间的运动，我用的是[Seven](https://seven.app/)
 * **冲凉**：下一步优化是：1）一个好的shower head；2）热水还是冷水？
