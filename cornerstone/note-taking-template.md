@@ -16,17 +16,24 @@ wiki-link-name, e.g. **Note-taking** from https://www.wikiwand.com/en/**Note-tak
 
 * Google: keyword + 
 	* Why should we care?
-	* Why is it important?
+	* Why it matters?
+	* The importance of 
+	* The benefits of 
+	* The Advantages of 
 	* What are the benefits?
 
 ## How
 
-MAKE(**M**inimum **A**ctionable **K**nowledge and **E**xperience)
 
 * [wikihow](https://www.wikihow.com/Main-Page) - 生活
 * [learn-anything](https://learn-anything.xyz/) - 理论
 * [linkedin.com/learning](https://www.linkedin.com/learning/me) - 职业技能
 * [HBR](https://store.hbr.org/tools/) - 职业理论
+* Others
+	* [educative.io](https://www.educative.io/)
+	* [udemy.com](https://www.udemy.com/)
+	* [skillshare.com](https://www.skillshare.com/home)
+	* [theskills.com](https://www.theskills.com/)
 * reddit - 话题
 * [google](https://www.google.com/imghp?hl=en): keyword + 
 	* cheatsheet 
