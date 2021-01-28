@@ -58,6 +58,7 @@
 ## The wake up - Thursday 
 
 * Spore to Spore: The peculiar and fascinating life cycle ofc **[mushrooms](https://www.wikiwand.com/en/Mushroom)**
+* Blowing in the wind: How the jet stream creates currents of change around the world. It's helpful to remember we're all part of something bigger, and we're not going through change alone.
 
 ## The wake up - Friday
 
@@ -145,3 +146,4 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 * Pause at least once a day to take a nice, deep breath and remind yourself of **those points** **throughout your body**.
 * Think of just **resting** the **attention** in a space that's already there. 
 * Pause at least once a day to take **a nice, deep breath** and remind yourself of those **points** throughout your body.
+* Remind yourself of the importance of **pausing**.
