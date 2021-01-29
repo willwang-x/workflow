@@ -41,7 +41,7 @@
 
 #### Q: 作为收集工具，Workflowy, Pinterest, Kit 对你个人使用的差异在哪里？
 
-A: 从收集，浏览，编辑和分享三者来看：
+A: 从收集，浏览，编辑和分享角度来看：
 
 * 收集便捷性：Pinterest > Workflowy > Kit
 * 浏览便捷性：Kit > Workflowy > Pinterest
