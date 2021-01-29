@@ -63,6 +63,7 @@
 ## The wake up - Friday
 
 * Portraits of Play: [Rollerblading](https://www.wikiwand.com/en/Roller_skating) - Think of an activity that brings you joy. What's stopping you from doing it today, even for a few minutes?
+* Portraits of Play: [Surfer](https://www.wikiwand.com/en/Surfing) Mary Mills | Ride the wave 
 
 ## The wake up - Saturday
 
@@ -147,3 +148,4 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 * Think of just **resting** the **attention** in a space that's already there. 
 * Pause at least once a day to take **a nice, deep breath** and remind yourself of those **points** throughout your body.
 * Remind yourself of the importance of **pausing**.
+* Be mindful in your **activities**.
