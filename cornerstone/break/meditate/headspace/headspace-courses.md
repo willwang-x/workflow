@@ -69,6 +69,13 @@
 
 * Stretches to start your morning: 1) Spinal Twist 2) Happy Baby 3) Child's Pose 4) Forward Fold
 
+## The wake up - Sun.
+
+* Music to your ears with Sahar Yousef - Productivity Expert 
+	* Use different Playlists for different modes of focus
+	* Choose music without lyrics you can understand.
+	* Keep strong, clear associations with your focus music.
+	* Choose specific songs to start and end the day.
 
 ## Today's Meditation
 
@@ -149,3 +156,4 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 * Pause at least once a day to take **a nice, deep breath** and remind yourself of those **points** throughout your body.
 * Remind yourself of the importance of **pausing**.
 * Be mindful in your **activities**.
+* **Pause** at least once a day to take a **nice**, **deep** breath and remind yourself of those **points** throughout your **body**.
