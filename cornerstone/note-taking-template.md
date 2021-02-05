@@ -36,6 +36,7 @@ wiki-link-name, e.g. **Note-taking** from https://www.wikiwand.com/en/**Note-tak
 	* [theskills.com](https://www.theskills.com/)
 * reddit - 话题
 * [TED](https://www.ted.com/)
+* [masterclass.com](https://www.masterclass.com/)
 * [google](https://www.google.com/imghp?hl=en): keyword + 
 	* cheatsheet 
 	* infographic
