@@ -64,6 +64,7 @@
 
 * Portraits of Play: [Rollerblading](https://www.wikiwand.com/en/Roller_skating) - Think of an activity that brings you joy. What's stopping you from doing it today, even for a few minutes?
 * Portraits of Play: [Surfer](https://www.wikiwand.com/en/Surfing) Mary Mills | Ride the wave 
+* Confronting Debt with Financial Planner Tonya Rapley: 1) Use the snowball method 2) Eliminate the highest interest rate 3) Pay off annoying debt 
 
 ## The wake up - Saturday
 
@@ -157,3 +158,4 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 * Remind yourself of the importance of **pausing**.
 * Be mindful in your **activities**.
 * **Pause** at least once a day to take a **nice**, **deep** breath and remind yourself of those **points** throughout your **body**.
+* When we try hard to be focused, it becomes more difficult. Focus is a **balance**.
