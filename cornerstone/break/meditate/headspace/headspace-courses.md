@@ -46,6 +46,10 @@
 * Connect the dots: Andy's advice for aligning your body, speech, and mind
 * How meditation rewires the brain with Dr. Tracy Brandmeyer
 
+## The wake up - Mon
+
+* **Ride your wave**: Kevin Hart's tips for navigating the highs and lows of your day. How are you going to handle your feelings?
+
 ## The wake up - Tuesday
 
 * Dancing on Air with Karynn Sucaldito @thefruitbat 
@@ -159,3 +163,4 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 * Be mindful in your **activities**.
 * **Pause** at least once a day to take a **nice**, **deep** breath and remind yourself of those **points** throughout your **body**.
 * When we try hard to be focused, it becomes more difficult. Focus is a **balance**.
+* Remember to keep it **light** and **playful**, like a **game**. This helps you focus better.
