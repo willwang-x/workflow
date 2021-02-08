@@ -21,7 +21,7 @@ Email：如何高效处理邮件？
 ## How 
 
 * **记录**: 线性**扫描**邮件，记录**Task**在笔记中 
-* **排序**: 根据重要性排序Tasks
+* **排序**: 根据**重要性**排序Tasks
 * **处理**: **Research**, **Define** → **in progress**	
 
 ## What 
@@ -34,6 +34,7 @@ Email：如何高效处理邮件？
 * **Define**: Clear understanding of the term complete
 * **In progres**: 进入实施环节
 * [BGM](https://open.spotify.com/playlist/3QqnLHTGfuAGx1In2Ov9if?si=TJ0udtnrTPek3vxAQFcjpw):  Sahar Yousef's advice - Use different Playlists for different modes of focus 
+* **重要性**：Time-critical > 短期生效 > Optimize(long term)
 
 
 
