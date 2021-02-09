@@ -53,6 +53,7 @@
 ## The wake up - Tuesday
 
 * Dancing on Air with Karynn Sucaldito @thefruitbat 
+* A show of hands: Get an up-close look at the delicate designs of a henna artist Jyoti Chheda. Brilliant things happen in calm minds. Be calm. You're brilliant.
 
 
 ## The wake up - Wed
@@ -155,12 +156,19 @@ When there's a lot **competing** for your attention, get some **clarity** on wha
 
 > Familiarize yourself with a relaxed, precise kind of focus. Neither too intense, or too loose.
 
-* By applying moments of **focus** throughout your day, you **strengthen your focus** within the **exercise** itself.
-* Pause at least once a day to take a nice, deep breath and remind yourself of **those points** **throughout your body**.
-* Think of just **resting** the **attention** in a space that's already there. 
-* Pause at least once a day to take **a nice, deep breath** and remind yourself of those **points** throughout your body.
-* Remind yourself of the importance of **pausing**.
-* Be mindful in your **activities**.
-* **Pause** at least once a day to take a **nice**, **deep** breath and remind yourself of those **points** throughout your **body**.
-* When we try hard to be focused, it becomes more difficult. Focus is a **balance**.
-* Remember to keep it **light** and **playful**, like a **game**. This helps you focus better.
+Level 1: Learn 
+
+1. By applying moments of **focus** throughout your day, you **strengthen your focus** within the **exercise** itself.
+1. Pause at least once a day to take a nice, deep breath and remind yourself of **those points** **throughout your body**.
+1. Think of just **resting** the **attention** in a space that's already there. 
+1. Pause at least once a day to take **a nice, deep breath** and remind yourself of those **points** throughout your body.
+1. Remind yourself of the importance of **pausing**.
+1. Be mindful in your **activities**.
+1. **Pause** at least once a day to take a **nice**, **deep** breath and remind yourself of those **points** throughout your **body**.
+1. When we try hard to be focused, it becomes more difficult. Focus is a **balance**.
+1. Remember to keep it **light** and **playful**, like a **game**. This helps you focus better.
+1. The more we **practice** focus, the more **natural** and **effortless** it feels.
+
+Level 2: Practice
+
+Level 3: Master
