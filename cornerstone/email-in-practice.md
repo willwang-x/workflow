@@ -85,3 +85,9 @@ A: Here are some I met:
 
 A: 不要在跳离邮件主线任务，使用Queue (= workflowy) 把邮件之后的事件队列中。然后再做处理。因为 邮件是主线任务。
 
+##### Q: What are going to do when you read some good eamils?
+
+A: 
+
+* **Collect**: forward it to xx@gmail.com with the new title: `email template` + the original title
+* **Read carefully**: put it to workflowy and highlight good parts
