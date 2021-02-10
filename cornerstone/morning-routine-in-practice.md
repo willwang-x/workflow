@@ -63,3 +63,15 @@ A:
 * [The Morning Routines Of The Most Successful People](https://www.fastcompany.com/3033652/the-morning-routines-of-the-most-successful-people)
 * [The Ultimate Morning Routine to Make You Happy And Productive All Day](https://www.lifehack.org/768258/morning-routine-to-make-your-day)
 * [A book and website to help you create a morning routine that works for you](https://mymorningroutine.com/)
+
+#### Q: 你是如何设计Will's morning BGM？
+
+A: 对每一个环节设计一个开始和结束曲目，通过音乐来感知时间。
+
+* 嗅觉 - 跳上月球
+* 身体 - Black Skinhead
+* 触觉 - The sun is shining down 
+* 能量 - 早安，晨之美！
+* 目标 - One Day 
+* 味觉 - 披星戴月的想你
+* 准备 - Make your own kind of Music 
