@@ -59,6 +59,7 @@
 ## The wake up - Wed
 
 * Letting go of thoughts - How to step away from mental distractions and overwhelming emotions. It's possible to give our thoughts the freedom to arise without allowing them to overwhelm us.
+* How to Eat for Better Sleep with Dr. Jaclyn Tolentino. Tips: 1) Timing is everything. 2) It's all about what you eat. 3) Avoid certain foods. 4) Avoid caffeine and alcohol.
 
 ## The wake up - Thursday 
 
@@ -170,5 +171,7 @@ Level 1: Learn
 1. The more we **practice** focus, the more **natural** and **effortless** it feels.
 
 Level 2: Practice
+
+* We train for **focus** and **flow** so outside the exercise we have focus and **stillness**. 
 
 Level 3: Master
