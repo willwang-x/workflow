@@ -69,4 +69,9 @@ wiki-link-name, e.g. **Note-taking** from https://www.wikiwand.com/en/**Note-tak
 
 A: 
 
+* Google: keyword vs 
+* [wikidiff.com](https://wikidiff.com/)
+* [slant.co](https://www.slant.co/): TRUSTWORTHY PRODUCT RANKINGS FOR ALL YOUR SHOPPING NEEDS
+
+
 
