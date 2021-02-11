@@ -65,6 +65,7 @@
 
 * Spore to Spore: The peculiar and fascinating life cycle ofc **[mushrooms](https://www.wikiwand.com/en/Mushroom)**
 * Blowing in the wind: How the jet stream creates currents of change around the world. It's helpful to remember we're all part of something bigger, and we're not going through change alone.
+* Welcome to the world: See life through the eyes of a baby elephant  - Beginner's mind. Embrace curiosity. Throughout the day, try to approach thoughts and feelings that arise with curiosity. That's beginner's mind.
 
 ## The wake up - Friday
 
@@ -173,5 +174,6 @@ Level 1: Learn
 Level 2: Practice
 
 * We train for **focus** and **flow** so outside the exercise we have focus and **stillness**. 
+* A few times a day, practice gently **focusing** on your pebble, **releasing** that focus and **coming back** to it.
 
 Level 3: Master
