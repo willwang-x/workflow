@@ -175,5 +175,6 @@ Level 2: Practice
 
 * We train for **focus** and **flow** so outside the exercise we have focus and **stillness**. 
 * A few times a day, practice gently **focusing** on your pebble, **releasing** that focus and **coming back** to it.
+* When we set up **conditions** for focus, we don't need to **hold focus** in place. Rather than think, we allow focus **to be**.
 
 Level 3: Master
