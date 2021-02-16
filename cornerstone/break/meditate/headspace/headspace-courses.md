@@ -55,7 +55,7 @@
 
 * Dancing on Air with Karynn Sucaldito @thefruitbat 
 * A show of hands: Get an up-close look at the delicate designs of a henna artist Jyoti Chheda. Brilliant things happen in calm minds. Be calm. You're brilliant.
-
+* Like a rolling stone: Watch two **sculptors** turn a rock into a functional work of art
 
 ## The wake up - Wed
 
@@ -178,5 +178,6 @@ Level 2: Practice
 * A few times a day, practice gently **focusing** on your pebble, **releasing** that focus and **coming back** to it.
 * When we set up **conditions** for focus, we don't need to **hold focus** in place. Rather than think, we allow focus **to be**.
 * A few times a day, practice **gently** **focusing** on your  pebble, **releasing** that focus and coming back to it.
+* Focus gives **energy**.
 
 Level 3: Master
