@@ -49,6 +49,7 @@
 ## The wake up - Mon
 
 * **Ride your wave**: Kevin Hart's tips for navigating the highs and lows of your day. How are you going to handle your feelings?
+* **Fight procrastination**: The perfect pep talk for a productive day, courtesy of Kevin Hart
 
 ## The wake up - Tuesday
 
@@ -176,5 +177,6 @@ Level 2: Practice
 * We train for **focus** and **flow** so outside the exercise we have focus and **stillness**. 
 * A few times a day, practice gently **focusing** on your pebble, **releasing** that focus and **coming back** to it.
 * When we set up **conditions** for focus, we don't need to **hold focus** in place. Rather than think, we allow focus **to be**.
+* A few times a day, practice **gently** **focusing** on your  pebble, **releasing** that focus and coming back to it.
 
 Level 3: Master
