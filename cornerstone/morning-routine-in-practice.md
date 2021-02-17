@@ -40,7 +40,7 @@ workflow with [BGM](https://open.spotify.com/playlist/34183eqUajA5kvizaXAFR2?si=
 
 <center>
 <a href="https://kit.co/will.wang.wang/morning-routine">
-<img src="https://i.imgur.com/TxStkAA.jpg" alt="A perfect morning" width=24%">
+<img src="https://i.imgur.com/9neeoS8.jpg" alt="A perfect morning" width=24%">
 </a>
 </center>
 

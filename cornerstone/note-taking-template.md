@@ -46,6 +46,7 @@ wiki-link-name, e.g. **Note-taking** from https://www.wikiwand.com/en/**Note-tak
 	* how
 	* what
 	* best practice
+	* diagram
 
 ## What 
 
