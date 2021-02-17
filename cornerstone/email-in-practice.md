@@ -20,15 +20,19 @@ Email：如何高效处理邮件？
 
 ## How 
 
-* **记录**: 线性**扫描**邮件，记录**Task**在笔记中 
-* **排序**: 根据**重要性**排序Tasks
+* **记录**: **扫描**邮件，记录**Task** 
+* **排序**: **排序** Tasks
 * **处理**: **Research**, **Define** → **in progress**	
 
 ## What 
 
 * **扫描**: 只看不行动。
-* **Task**: e.g. Reply to someone; Define x; 
-* **排序**: 及时 > 重要 > 其他。
+* **Task**: 记录在 workflowy中，e.g. Reply to someone; Define x; 
+* **排序**: 紧急 > 重要 > 其他。
+	* urgent & important ->  done immediately 
+	* urgent & not important -> delegate
+	* not urgent & important -> get an end date -> Things
+	* not urgent & not important -> drop
 * **笔记**: 使用 workflowy 记录。
 * **Research**: Task dependency 
 * **Define**: Clear understanding of the term complete
