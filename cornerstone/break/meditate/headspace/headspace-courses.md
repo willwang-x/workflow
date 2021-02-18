@@ -68,6 +68,7 @@
 * Spore to Spore: The peculiar and fascinating life cycle ofc **[mushrooms](https://www.wikiwand.com/en/Mushroom)**
 * Blowing in the wind: How the jet stream creates currents of change around the world. It's helpful to remember we're all part of something bigger, and we're not going through change alone.
 * Welcome to the world: See life through the eyes of a baby elephant  - Beginner's mind. Embrace curiosity. Throughout the day, try to approach thoughts and feelings that arise with curiosity. That's beginner's mind.
+* **Hop to it**: See life through the eyes of a baby [kangaroo](https://www.wikiwand.com/en/Kangaroo)
 
 ## The wake up - Friday
 
