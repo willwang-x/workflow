@@ -75,6 +75,7 @@
 * Portraits of Play: [Rollerblading](https://www.wikiwand.com/en/Roller_skating) - Think of an activity that brings you joy. What's stopping you from doing it today, even for a few minutes?
 * Portraits of Play: [Surfer](https://www.wikiwand.com/en/Surfing) Mary Mills | Ride the wave 
 * Confronting Debt with Financial Planner Tonya Rapley: 1) Use the snowball method 2) Eliminate the highest interest rate 3) Pay off annoying debt 
+* Right on the money: Learn the secrets to [budgeting](https://www.wikiwand.com/en/Budget) like a financial pro. 1) Determine your medium. 2) Review your spending. 3) Set up your systems.
 
 ## The wake up - Saturday
 
@@ -182,5 +183,6 @@ Level 2: Practice
 * A few times a day, practice **gently** **focusing** on your  pebble, **releasing** that focus and coming back to it.
 * Focus gives **energy**.
 * Focus isn't something you need to **hold**, **control** or **maintain**.
+* A few times a day, practice gently **focusing** on your **pebble**, **releasing** that focus and coming back to it.
 
 Level 3: Master
