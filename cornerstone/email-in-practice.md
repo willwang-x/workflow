@@ -27,7 +27,7 @@ Email：如何高效处理邮件？
 ## What 
 
 * **扫描**: 只看不行动。
-* **Task**: 记录在 workflowy中，e.g. Reply to someone; Define x; 
+* **[Task](https://www.wikiwand.com/en/Task_(project_management))**: 记录在 workflowy中，e.g. Reply to someone; Define x; 
 * **排序**: 紧急 > 重要 > 其他。
 	* urgent & important ->  done immediately 
 	* urgent & not important -> delegate
