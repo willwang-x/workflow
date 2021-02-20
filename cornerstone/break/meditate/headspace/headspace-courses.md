@@ -80,6 +80,7 @@
 ## The wake up - Saturday
 
 * Stretches to start your morning: 1) Spinal Twist 2) Happy Baby 3) Child's Pose 4) Forward Fold
+* Time for a  reboot: Refresh your mind with this 3-minute meditation. It's okay to pause and reset before moving forward. Sometimes your mind just needs a jump start.
 
 ## The wake up - Sun.
 
@@ -184,5 +185,6 @@ Level 2: Practice
 * Focus gives **energy**.
 * Focus isn't something you need to **hold**, **control** or **maintain**.
 * A few times a day, practice gently **focusing** on your **pebble**, **releasing** that focus and coming back to it.
+* Give your mind complete **freedom**, then bring it back. This gives us **control** over our focus.
 
 Level 3: Master
