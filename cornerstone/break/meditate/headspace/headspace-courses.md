@@ -186,5 +186,6 @@ Level 2: Practice
 * Focus isn't something you need to **hold**, **control** or **maintain**.
 * A few times a day, practice gently **focusing** on your **pebble**, **releasing** that focus and coming back to it.
 * Give your mind complete **freedom**, then bring it back. This gives us **control** over our focus.
+* Notice any attachment to being quiet and still, and recognize that we can bring this stillness into our day.
 
 Level 3: Master
