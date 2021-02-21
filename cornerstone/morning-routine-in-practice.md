@@ -72,6 +72,6 @@ A: 对每一个环节设计一个开始和结束曲目，通过音乐来感知�
 * 身体 - Black Skinhead
 * 触觉 - The sun is shining down 
 * 能量 - 早安，晨之美！
-* 目标 - One Day 
 * 味觉 - 披星戴月的想你
+* 目标 - One Day 
 * 准备 - Make your own kind of Music 
