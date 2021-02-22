@@ -179,15 +179,15 @@ Level 1: Learn
 
 Level 2: Practice
 
-* We train for **focus** and **flow** so outside the exercise we have focus and **stillness**. 
-* A few times a day, practice gently **focusing** on your pebble, **releasing** that focus and **coming back** to it.
-* When we set up **conditions** for focus, we don't need to **hold focus** in place. Rather than think, we allow focus **to be**.
-* A few times a day, practice **gently** **focusing** on your  pebble, **releasing** that focus and coming back to it.
-* Focus gives **energy**.
-* Focus isn't something you need to **hold**, **control** or **maintain**.
-* A few times a day, practice gently **focusing** on your **pebble**, **releasing** that focus and coming back to it.
-* Give your mind complete **freedom**, then bring it back. This gives us **control** over our focus.
-* Notice any attachment to being quiet and still, and recognize that we can bring this stillness into our day.
-* Take a moment to think of **why** you began this particular **pack**.
+1. We train for **focus** and **flow** so outside the exercise we have focus and **stillness**. 
+1. A few times a day, practice gently **focusing** on your pebble, **releasing** that focus and **coming back** to it.
+1. When we set up **conditions** for focus, we don't need to **hold focus** in place. Rather than think, we allow focus **to be**.
+1. A few times a day, practice **gently** **focusing** on your  pebble, **releasing** that focus and coming back to it.
+1. Focus gives **energy**.
+1. Focus isn't something you need to **hold**, **control** or **maintain**.
+1. A few times a day, practice gently **focusing** on your **pebble**, **releasing** that focus and coming back to it.
+1. Give your mind complete **freedom**, then bring it back. This gives us **control** over our focus.
+1. Notice any attachment to being quiet and still, and recognize that we can bring this stillness into our day.
+1. Take a moment to think of **why** you began this particular **pack**.
 
 Level 3: Master
