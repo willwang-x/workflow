@@ -40,7 +40,7 @@ workflow with [BGM](https://open.spotify.com/playlist/34183eqUajA5kvizaXAFR2?si=
 
 <center>
 <a href="https://kit.co/will.wang.wang/morning-routine">
-<img src="https://i.imgur.com/9neeoS8.jpg" alt="A perfect morning" width=24%">
+<img src="https://i.imgur.com/HxzeMAH.jpeg" alt="A perfect morning" width=24%">
 </a>
 </center>
 
@@ -66,7 +66,7 @@ A:
 
 #### Q: 你是如何设计Will's morning BGM？
 
-A: 对每一个环节设计一个开始和结束曲目，通过音乐来感知时间。
+A: 对每一个环节设计一个开始和结束曲目，通过音乐来感知时间。(如果提前完成，手动进入下一个音乐开始)
 
 * 嗅觉 - 跳上月球
 * 身体 - Black Skinhead

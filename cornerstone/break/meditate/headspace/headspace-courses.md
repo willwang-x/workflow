@@ -50,6 +50,7 @@
 
 * **Ride your wave**: Kevin Hart's tips for navigating the highs and lows of your day. How are you going to handle your feelings?
 * **Fight procrastination**: The perfect pep talk for a productive day, courtesy of Kevin Hart
+* **Get good at failing**: An important life lesson from Kevin Hart
 
 ## The wake up - Tuesday
 
@@ -187,5 +188,6 @@ Level 2: Practice
 * A few times a day, practice gently **focusing** on your **pebble**, **releasing** that focus and coming back to it.
 * Give your mind complete **freedom**, then bring it back. This gives us **control** over our focus.
 * Notice any attachment to being quiet and still, and recognize that we can bring this stillness into our day.
+* Take a moment to think of **why** you began this particular **pack**.
 
 Level 3: Master
