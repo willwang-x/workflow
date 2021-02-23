@@ -26,15 +26,15 @@ Morning routine in Practice: <br>如何充满活力？
 * 实践：看是否适合自己
 * 更新：修改直到适合自己
 
-workflow with [BGM](https://open.spotify.com/playlist/34183eqUajA5kvizaXAFR2?si=pWZDbDHrTcu8ZLshZABWAw)：
+workflow with 🎵[BGM](https://open.spotify.com/playlist/34183eqUajA5kvizaXAFR2?si=pWZDbDHrTcu8ZLshZABWAw)：
 
-1. 唤醒嗅觉，起床呼吸新鲜空气
-1. 唤醒身体，做运动
-1. 唤醒皮肤，冲个凉
-1. 补充能量，喝饮品
-1. 查看目标，明确行程
-1. 唤醒味觉，吃早餐
-1. 到工作台，工作
+1. 👃唤醒嗅觉，新鲜空气
+1. 🤸‍♂️唤醒身体，做运动
+1. 🚿唤醒皮肤，冲个凉
+1. ☕️唤醒大脑，喝饮品
+1. 🥪唤醒味觉，吃早餐
+1. 🎯查看目标，明确日程
+1. 👨‍💻到工作台，工作
 
 ## What 
 
@@ -71,7 +71,7 @@ A: 对每一个环节设计一个开始和结束曲目，通过音乐来感知�
 * 嗅觉 - 跳上月球
 * 身体 - Black Skinhead
 * 触觉 - The sun is shining down 
-* 能量 - 早安，晨之美！
+* **能量 - 早安，晨之美！**
 * 味觉 - 披星戴月的想你
 * 目标 - One Day 
 * 准备 - Make your own kind of Music 
