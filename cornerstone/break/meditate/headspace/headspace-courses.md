@@ -57,6 +57,7 @@
 * Dancing on Air with Karynn Sucaldito @thefruitbat 
 * A show of hands: Get an up-close look at the delicate designs of a henna artist Jyoti Chheda. Brilliant things happen in calm minds. Be calm. You're brilliant.
 * Like a rolling stone: Watch two **sculptors** turn a rock into a functional work of art
+* Page tuner: An up-close look at the classic art of bookbinding
 
 ## The wake up - Wed
 
@@ -191,3 +192,5 @@ Level 2: Practice
 1. Take a moment to think of **why** you began this particular **pack**.
 
 Level 3: Master
+
+* **Rehearse** your focus in your mind without any expectation. Just let it flow.
