@@ -24,10 +24,16 @@ source: [healthline.com](https://www.healthline.com/health/healthy-sleep/how-to-
 
 ## How
 
-* 睡前脑袋**放空空**: 没有思考大脑更容易进入休息状态。
-* 睡时寻找**最舒服**: 沙发或者草地，眼罩，耳塞
-* **二十分钟**最适宜: 进入深度睡眠难唤醒。
-* 睡后出去**晒阳光**: 阳光和风有助于降低褪黑色，提高体温，重回活力。 with [BGM](https://open.spotify.com/playlist/4HJSuWip0Eh0OC4rY0NMPt?si=kEiyisTUTrKzyhmRCQmlkA)
+<center>
+<a href="https://kit.co/will.wang.wang/nap-kit">
+<img src="https://i.imgur.com/p9iuvnj.jpeg" alt="intuition" width=42%">
+</a>
+</center>
+
+* **Nap in the early afternoon**.  The best time for a nap is between 12pm and 3pm, at which point your melatonin levels are highest and your energy level tends to be lowest. 
+* **Keep it short**.  10-20 minutes 
+* **Set an alarm**. 
+* 睡后出去晒阳光 with [BGM](https://open.spotify.com/playlist/4HJSuWip0Eh0OC4rY0NMPt?si=5YCQZJ4oSi2OKG5FxHndAQ)
 
 
 ## What
@@ -53,3 +59,13 @@ A:
 * [How to Take a Really Great Nap](https://www.wikihow.com/Take-a-Really-Great-Nap)
 * [The Science of the Perfect Nap](https://lifehacker.com/5950732/the-science-of-the-perfect-nap)
 * [Napping: Do's and don'ts for healthy adults](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/napping/art-20048319)
+
+
+#### Q: 午睡小建议？
+
+A：
+
+* 睡前脑袋**放空空**: 没有思考大脑更容易进入休息状态。
+* 睡时寻找**最舒服**: 沙发或者草地，眼罩，耳塞
+* **二十分钟**最适宜: 进入深度睡眠难唤醒。
+* 睡后出去**晒阳光**: 阳光和风有助于降低褪黑色，提高体温，重回活力。 with [BGM](https://open.spotify.com/playlist/4HJSuWip0Eh0OC4rY0NMPt?si=kEiyisTUTrKzyhmRCQmlkA)
