@@ -37,9 +37,9 @@ Step:
 
 * 放松听觉：[BGM](https://open.spotify.com/playlist/4gPv60nM82v77CuM4x5aVz?si=uvCFGv6eRpSzZcFJzeVTTg)
 * 放松身体：洗澡
-* 放松视觉：热眼霜
-* 放松触觉：按摩
-* 清空大脑：positioning, daily-review, workflowy-daily
+* 放松视觉：氛围灯(Hue)，热眼霜
+* 放松触觉：按摩脚底
+* 清空大脑：positioning, daily-review, workflowy
 * 明日准备：工作包，充电，行头，日程
 * 放松味觉：茶
 
