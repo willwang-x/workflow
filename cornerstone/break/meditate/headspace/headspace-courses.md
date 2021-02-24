@@ -86,7 +86,7 @@
 
 ## The wake up - Sun.
 
-* Music to your ears with Sahar Yousef - Productivity Expert 
+* [Music to your ears](https://www.youtube.com/watch?v=D5b36HX9juc) with Sahar Yousef - Productivity Expert 
 	* Use different Playlists for different modes of focus
 	* Choose music without lyrics you can understand.
 	* Keep strong, clear associations with your focus music.
