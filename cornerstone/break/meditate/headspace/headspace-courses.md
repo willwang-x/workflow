@@ -64,6 +64,7 @@
 * Letting go of thoughts - How to step away from mental distractions and overwhelming emotions. It's possible to give our thoughts the freedom to arise without allowing them to overwhelm us.
 * How to Eat for Better Sleep with Dr. Jaclyn Tolentino. Tips: 1) Timing is everything. 2) It's all about what you eat. 3) Avoid certain foods. 4) Avoid caffeine and alcohol.
 * Meet Dora: Headspace's newest meditation teacher 
+* Ask Kessonga
 
 ## The wake up - Thursday 
 
@@ -194,3 +195,4 @@ Level 2: Practice
 Level 3: Master
 
 * **Rehearse** your focus in your mind without any expectation. Just let it flow.
+* The goal is to focus **clearly** and with a **relaxed** **attitude**.
