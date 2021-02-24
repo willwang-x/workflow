@@ -19,12 +19,29 @@ source: [the-benefits-of-sticking-to-a-nighttime-routine](https://wakefitco.medi
 
 ## How
 
+<center>
+
+<a href="https://kit.co/will.wang.wang/night-routine">
+  <img src="https://i.imgur.com/FXBkl9W.jpeg" alt="intuition or map" width=42%">
+  </a>
+
+</center>
+
 确定 night routine 第一的地位。不管多晚，都要开始。
 
 * [wikihow](https://www.wikihow.com/Main-Page) - 生活
 * 晚饭后要健身
 * 准备早晨的容器
 
+Step: 
+
+* 放松听觉：[BGM](https://open.spotify.com/playlist/4gPv60nM82v77CuM4x5aVz?si=uvCFGv6eRpSzZcFJzeVTTg)
+* 放松身体：洗澡
+* 放松视觉：热眼霜
+* 放松味觉：茶
+* 放松触觉：按摩
+* 清空大脑：positioning, daily-review, workflowy-daily
+* 明日准备：工作包，充电，行头，日程
 
 ## What 
 
