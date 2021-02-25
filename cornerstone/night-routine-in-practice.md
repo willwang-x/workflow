@@ -85,6 +85,7 @@ Test: (从精神世界进入物理世界)
 
 * Exercise
 * Ukulele
+* Prep things for tomorrow
 * Read your own **blog**?
 
 
