@@ -33,7 +33,7 @@ source: [the-benefits-of-sticking-to-a-nighttime-routine](https://wakefitco.medi
 * 晚饭后要健身
 * 准备早晨的容器
 
-Step: ()
+Step: 
 
 * 放松听觉：[BGM](https://open.spotify.com/playlist/4gPv60nM82v77CuM4x5aVz?si=uvCFGv6eRpSzZcFJzeVTTg)
 * 放松身体：洗澡
@@ -68,3 +68,23 @@ A:
 * [Wiki: Night Routines](https://www.wikihow.com/Category:Night-Routines)
 * [How to Establish a Nighttime Routine](https://www.wikihow.com/Establish-a-Nighttime-Routine)
 * [23 Ways to Revamp Your Nighttime Routine](https://www.healthline.com/health/nighttime-routine)
+
+#### Q: How to recover after a long day at work?
+
+A: 
+
+1. Lie down and do nothing
+2. Get some exercise
+3. Take a bath or shower
+4. Change into comfortable clothes
+5. Do something you enjoy
+
+source: [lifehack.org](https://www.lifehack.org/articles/work/5-tips-for-recovering-after-long-day-work.html)
+
+Test: (从精神世界进入物理世界)
+
+* Exercise
+* Ukulele
+* Read your own **blog**?
+
+

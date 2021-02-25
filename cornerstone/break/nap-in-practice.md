@@ -30,6 +30,7 @@ source: [healthline.com](https://www.healthline.com/health/healthy-sleep/how-to-
 </a>
 </center>
 
+* 准备：热水，准备好加湿器，眼罩，水杯。（让wake up变得流畅）
 * **Nap in the early afternoon**.  The best time for a nap is between 12pm and 3pm, at which point your melatonin levels are highest and your energy level tends to be lowest. 
 * **Keep it short**.  10-20 minutes 
 * **Set an alarm**. 
