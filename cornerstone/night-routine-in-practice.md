@@ -31,7 +31,7 @@ source: [the-benefits-of-sticking-to-a-nighttime-routine](https://wakefitco.medi
 
 * [wikihow](https://www.wikihow.com/Main-Page) - 生活
 * 晚饭后要健身
-* 准备早晨的容器
+* 准备早晨的容器: 水盒，早盒，冰箱盒
 
 Step: 
 
@@ -87,5 +87,6 @@ Test: (从精神世界进入物理世界)
 * Ukulele
 * Prep things for tomorrow
 * Read your own **blog**?
+* 放松剧：我的家里空无一物
 
 
