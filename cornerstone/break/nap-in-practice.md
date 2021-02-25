@@ -26,15 +26,13 @@ source: [healthline.com](https://www.healthline.com/health/healthy-sleep/how-to-
 
 <center>
 <a href="https://kit.co/will.wang.wang/nap-kit">
-<img src="https://i.imgur.com/p9iuvnj.jpeg" alt="intuition" width=42%">
+<img src="https://i.imgur.com/y9znTBI.jpg" alt="intuition" width=42%">
 </a>
 </center>
 
-* 准备：热水，准备好加湿器，眼罩，水杯。（让wake up变得流畅）
-* **Nap in the early afternoon**.  The best time for a nap is between 12pm and 3pm, at which point your melatonin levels are highest and your energy level tends to be lowest. 
-* **Keep it short**.  10-20 minutes 
-* **Set an alarm**. 
-* 睡后出去晒阳光 with [BGM](https://open.spotify.com/playlist/4HJSuWip0Eh0OC4rY0NMPt?si=5YCQZJ4oSi2OKG5FxHndAQ)
+* 准备：热水，水杯，加湿器，眼罩。（让wake up变得流畅）
+* 定时： 15 mins
+* 唤醒：阳台吹风晒阳光 with [BGM](https://open.spotify.com/playlist/4HJSuWip0Eh0OC4rY0NMPt?si=5YCQZJ4oSi2OKG5FxHndAQ)
 
 
 ## What
