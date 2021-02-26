@@ -35,7 +35,7 @@ source: [the-benefits-of-sticking-to-a-nighttime-routine](https://wakefitco.medi
 
 Step: 
 
-* 准备物品：
+* 准备[物品](https://kit.co/will.wang.wang/morning-routine)：可以作为晚饭的散步活动！（test）
 * 放松听觉：[BGM](https://open.spotify.com/playlist/4gPv60nM82v77CuM4x5aVz?si=uvCFGv6eRpSzZcFJzeVTTg)
 * 放松身体：洗澡
 * 放松视觉：氛围灯(Hue)，热眼霜
