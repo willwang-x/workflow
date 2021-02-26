@@ -40,7 +40,7 @@ Step:
 * 放松视觉：氛围灯(Hue)，热眼霜
 * 放松触觉：按摩脚底
 * 清空大脑：positioning, daily-review, workflowy
-* 明日准备：工作包，充电，行头，日程
+* 明日准备：工作包，充电(WH耳机，)，行头，日程
 * 放松味觉：茶
 
 ## What 
