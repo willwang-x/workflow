@@ -80,6 +80,7 @@
 * Portraits of Play: [Surfer](https://www.wikiwand.com/en/Surfing) Mary Mills | Ride the wave 
 * Confronting Debt with Financial Planner Tonya Rapley: 1) Use the snowball method 2) Eliminate the highest interest rate 3) Pay off annoying debt 
 * Right on the money: Learn the secrets to [budgeting](https://www.wikiwand.com/en/Budget) like a financial pro. 1) Determine your medium. 2) Review your spending. 3) Set up your systems.
+* How to Talk about Money with [Alex Holder](https://books.google.com/books/about/Open_Up.html?id=wuWlxwEACAAJ&source=kp_author_description)
 
 ## The wake up - Saturday
 
@@ -198,3 +199,4 @@ Level 3: Master
 * **Rehearse** your focus in your mind without any expectation. Just let it flow.
 * The goal is to focus **clearly** and with a **relaxed** **attitude**.
 * Seeing an exercise **unfold** in a perfect way **retrains** the mind.
+* Instead of thinking 'you can' or 'you can't' with this, you should simply **be** and let it **unfold**.
