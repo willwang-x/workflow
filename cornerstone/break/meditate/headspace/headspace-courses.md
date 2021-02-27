@@ -86,6 +86,7 @@
 
 * Stretches to start your morning: 1) Spinal Twist 2) Happy Baby 3) Child's Pose 4) Forward Fold
 * Time for a  reboot: Refresh your mind with this 3-minute meditation. It's okay to pause and reset before moving forward. Sometimes your mind just needs a jump start.
+* Weekend reset: A fresh start
 
 ## The wake up - Sun.
 
@@ -200,3 +201,4 @@ Level 3: Master
 * The goal is to focus **clearly** and with a **relaxed** **attitude**.
 * Seeing an exercise **unfold** in a perfect way **retrains** the mind.
 * Instead of thinking 'you can' or 'you can't' with this, you should simply **be** and let it **unfold**.
+* Apply the **focus** to more and more things. Over time, we **tap into** a natural confidence and it becomes **second nature**.

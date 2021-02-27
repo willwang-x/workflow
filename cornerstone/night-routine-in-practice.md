@@ -11,11 +11,14 @@ Night Routine in Practice  <br><br>
 
 ## Why 
 
-* It improves the quality of sleep that you get.
+* It improves the **quality of sleep** that you get.
 * It makes your mornings a **smooth** sailing experience and hence, more **productive**.
 * Your brain functions more **efficiently** throughout the day.
 
-source: [the-benefits-of-sticking-to-a-nighttime-routine](https://wakefitco.medium.com/the-benefits-of-sticking-to-a-nighttime-routine-e69896493e1c)
+我的night routine的需求：
+
+* 稳定 (consistency)：不管多晚，都要开始。结构性稳定。抗意外能力。
+* 高效：Do as little as possible, but as much as necessary. 
 
 ## How
 
@@ -27,7 +30,6 @@ source: [the-benefits-of-sticking-to-a-nighttime-routine](https://wakefitco.medi
 
 </center>
 
-确定 night routine 第一的地位。不管多晚，都要开始。
 
 * [wikihow](https://www.wikihow.com/Main-Page) - 生活
 * 晚饭后要健身
