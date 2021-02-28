@@ -22,9 +22,9 @@ Morning routine in Practice: <br>如何充满活力？
 
 前提保证，是充足睡眠和明日就绪。迭代方式是：
 
-* 尝试：找到相关的科学依据
-* 实践：看是否适合自己
-* 更新：修改直到适合自己
+1. 尝试：先尝试再说
+1. 反馈：记录不舒服的地方
+1. 改善：在实践中用便签纸记录下来，看是否可以改善
 
 workflow with 🎵[BGM](https://open.spotify.com/playlist/34183eqUajA5kvizaXAFR2?si=pWZDbDHrTcu8ZLshZABWAw)：
 
