@@ -202,3 +202,4 @@ Level 3: Master
 * Seeing an exercise **unfold** in a perfect way **retrains** the mind.
 * Instead of thinking 'you can' or 'you can't' with this, you should simply **be** and let it **unfold**.
 * Apply the **focus** to more and more things. Over time, we **tap into** a natural confidence and it becomes **second nature**.
+* Remember the idea of **[naturalness](https://www.wikiwand.com/en/Naturalness_(physics))**, that innate balance of focus where you can center on each part of the activity.
