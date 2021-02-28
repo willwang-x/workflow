@@ -21,13 +21,17 @@ Email：如何高效处理邮件？
 ## How 
 
 * **记录**: **扫描**邮件，记录**Task** 
-* **排序**: **排序** Tasks
+* **排序**: **Move**, **排序** Tasks
 * **处理**: **Research**, **Define** → **in progress**	
 
 ## What 
 
 * **扫描**: 只看不行动。
+* **记录**: 记录内容到到workflowy / 打开到浏览器
+	* copy 标题和内容 到 workflowy
+	* 打开到浏览器稍后处理
 * **[Task](https://www.wikiwand.com/en/Task_(project_management))**: 记录在 workflowy中，e.g. Reply to someone; Define x; 
+* Move: 把 not urgent 移到 `...` 中，晚上处理。
 * **排序**: 紧急 > 重要 > 其他。
 	* urgent & important ->  done immediately 
 	* urgent & not important -> delegate
