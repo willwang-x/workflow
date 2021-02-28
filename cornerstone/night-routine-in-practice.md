@@ -31,20 +31,22 @@ Night Routine in Practice  <br><br>
 </center>
 
 
-* [wikihow](https://www.wikihow.com/Main-Page) - 生活
-* 晚饭后要健身
-* 准备早晨的容器: 水盒，早盒，冰箱盒
-
 Step: 
 
-* 准备[物品](https://kit.co/will.wang.wang/morning-routine)：可以作为晚饭的散步活动！（test）
-* 放松听觉：[BGM](https://open.spotify.com/playlist/4gPv60nM82v77CuM4x5aVz?si=uvCFGv6eRpSzZcFJzeVTTg)
-* 放松身体：洗澡
-* 放松视觉：氛围灯(Hue)，热眼霜
-* 放松触觉：按摩脚底
-* 清空大脑：positioning, daily-review, workflowy
-* 明日准备：工作包，充电(WH耳机，)，行头，日程
-* 放松味觉：茶
+1. 准备[物品](https://kit.co/will.wang.wang/morning-routine)：可以作为晚饭的散步活动！（test）
+1. 放松听觉：[BGM](https://open.spotify.com/playlist/4gPv60nM82v77CuM4x5aVz?si=uvCFGv6eRpSzZcFJzeVTTg)
+1. 放松身体：洗澡
+1. 放松视觉：氛围灯(Hue)，热眼霜
+1. 放松触觉：按摩脚底
+1. 清空大脑：positioning, daily-review, workflowy
+1. 明日准备：工作包，充电(WH耳机，)，行头，日程
+1. 放松味觉：茶
+
+改善： 
+
+* 以晚饭后健身为 night routine 触发信号。
+	* 如果没有？-> 思考中...
+* 准备早晨的容器: 水盒，早盒，冰箱盒
 
 ## What 
 
