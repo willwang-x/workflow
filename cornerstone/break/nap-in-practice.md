@@ -31,8 +31,11 @@ source: [healthline.com](https://www.healthline.com/health/healthy-sleep/how-to-
 </center>
 
 * **准备**：热水，水杯，加湿器，眼罩。（让wake up变得流畅）
-* **定时**： 15 mins
+* **定时**：
+	* **Turn on**「Do Not Disturb」  
+	* Apple Watch: Siri Timer - 「**15 mins**」
 * **唤醒**：阳台吹风晒阳光 with [BGM](https://open.spotify.com/playlist/4HJSuWip0Eh0OC4rY0NMPt?si=5YCQZJ4oSi2OKG5FxHndAQ)
+	* Turn off「Do Not Disturb」  
 
 
 ## What
