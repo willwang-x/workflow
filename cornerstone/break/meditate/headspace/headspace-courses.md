@@ -51,6 +51,7 @@
 * **Ride your wave**: Kevin Hart's tips for navigating the highs and lows of your day. How are you going to handle your feelings?
 * **Fight procrastination**: The perfect pep talk for a productive day, courtesy of Kevin Hart
 * **Get good at failing**: An important life lesson from Kevin Hart
+* Energy Shots! with Kevin Hart: Stretch your [attention span](https://www.wikiwand.com/en/Attention_span) 
 
 ## The wake up - Tuesday
 
@@ -203,3 +204,4 @@ Level 3: Master
 * Instead of thinking 'you can' or 'you can't' with this, you should simply **be** and let it **unfold**.
 * Apply the **focus** to more and more things. Over time, we **tap into** a natural confidence and it becomes **second nature**.
 * Remember the idea of **[naturalness](https://www.wikiwand.com/en/Naturalness_(physics))**, that innate balance of focus where you can center on each part of the activity.
+* When we set things up and approach things in the right way, that defines our **[experience](https://www.wikiwand.com/en/Experience)**.
