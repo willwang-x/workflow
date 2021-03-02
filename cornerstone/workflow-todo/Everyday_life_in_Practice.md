@@ -1,14 +1,20 @@
-# Day： 如何愉快地度过一天？
+<h1 align="center">
+<br>
+	<a href="https://www.nytimes.com/2009/05/24/business/24collins.html">
+  <img src="https://i.imgur.com/hSR4nxM.jpg" alt="intuition or map" width=42%">
+  </a>
+  <br><br>
+Everyday life in Practice： 
+<br>
+如何愉快地度过一天?
+  <br><br>
+</h1>
 
-> 一天即一生。
 
-![柯林斯](https://i.imgur.com/hSR4nxM.jpg) 
-
-from [For This Guru, No Question Is Too Big](https://www.nytimes.com/2009/05/24/business/24collins.html)
 
 > 柯林斯在很多年前就定下了一个“宏伟的目标”，他人生中50%的工作时间要用于创新性的工作——思考、调研和写作——30%的用于教学，剩下20%用来完成其它所有事。白板上的百分比正是他日常时间分配的大体状况。（他用秒表计时，用电子表格来控制进度。）
 > 
-> 他固定时间表的生活方式源自一个简单的理念"让工作持久而与众不同”，而其真正得以实现还是得益于他“愿意……用对‘做什么’的相同程度的专注来对待**‘不做什么’**”的这种态度。”
+> 他固定时间表的生活方式源自一个简单的理念"让工作持久而与众不同”，而其真正得以实现还是得益于他“愿意……用对‘做什么’的相同程度的专注来对待**‘不做什么’**”的这种态度。” - [For This Guru, No Question Is Too Big](https://www.nytimes.com/2009/05/24/business/24collins.html)
 
 ## Why？
 
@@ -43,4 +49,6 @@ from [For This Guru, No Question Is Too Big](https://www.nytimes.com/2009/05/24/
 * app:
 	* [F.Lux](https://justgetflux.com/): To feel the time (连续时间)
 	* [Take a break](http://www.miidii.tech/portfolio/items/839266): Automatically lock screen, we make you a break you can't refuse. (间隔时间)
+
+
 
