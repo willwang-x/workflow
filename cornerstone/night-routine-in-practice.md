@@ -33,8 +33,8 @@ Night Routine in Practice  <br><br>
 
 Step: 
 
-1. 准备[物品](https://kit.co/will.wang.wang/morning-routine)：晚饭后，按 [morning-kit](https://kit.co/will.wang.wang/morning-routine) 准备
 1. 放松听觉：[BGM](https://open.spotify.com/playlist/4gPv60nM82v77CuM4x5aVz?si=uvCFGv6eRpSzZcFJzeVTTg)
+1. 准备[物品](https://kit.co/will.wang.wang/morning-routine)：晚饭后，按 [morning-kit](https://kit.co/will.wang.wang/morning-routine) 准备
 1. 放松身体：洗澡
 1. 放松视觉：氛围灯(Hue)，热眼霜
 1. 放松触觉：按摩脚底
@@ -44,7 +44,8 @@ Step:
 
 改善： 
 
-* 以晚饭后健身为 night routine 触发信号。
+* 点一柱香
+* 以晚饭后 **健身** 为 night routine 触发信号。
 	* 如果没有？-> 思考中...
 * 准备早晨的容器: 水盒，早盒，冰箱盒
 
