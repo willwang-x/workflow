@@ -40,14 +40,14 @@ workflow with 🎵[BGM](https://open.spotify.com/playlist/34183eqUajA5kvizaXAFR2
 
 <center>
 <a href="https://kit.co/will.wang.wang/morning-routine">
-<img src="https://i.imgur.com/HxzeMAH.jpeg" alt="A perfect morning" width=24%">
+<img src="https://assets.kit.co/kits/cc/ab/morning-routine-ccabda9130634a5e4dc9f2bb10f10f99.jpg" width=24%">
 </a>
 </center>
 
 * **空气**：起床第一件事情，就是天台或者户外呼吸新鲜空气。会让人对起床美好的嗅觉记忆。
-* **运动**：需要一个轻量短时间的运动，我用的是[Seven](https://seven.app/)
+* **运动**：需要一个轻量短时间的运动，固定为 [Supernatural](https://www.getsupernatural.com/) 的 [Quick Hits: Sweat Symphony](https://open.spotify.com/playlist/2SUPCPtUaDgs9KgWfeXQvP?si=5a88885874fe41f1) at [Cape of Good Hope](https://www.wikiwand.com/en/Cape_of_Good_Hope)，以作为生活[节奏](https://www.wikiwand.com/en/Rhythm)最重要的提醒 
 * **冲凉**：下一步优化是：1）一个好的shower head；2）热水还是冷水？
-* **饮品**：补充一天所需维生素。我用的是[Athletic Greens](https://www.amazon.com/gp/product/B084GZNKZQ)
+* **饮品**：补充一天所需维生素。我用的是[Athletic Greens](https://www.amazon.com/gp/product/B084GZNKZQ), 另外冲一份[咖啡](https://www.amazon.com/dp/B07LFYX6TX) (20g)。
 * **目标**：看你今天做的事情，与你的目标是否吻合。我用在用护手霜和唇膏，看A4纸上的长远目标。下一步需要优化目标载体。
 * **早餐**：能提供5小时身体能量和注意力能量。e.g. 星巴克的早晨和一杯Americano
 * **到工作台**：希望工作地点和家有一个步行距离。喜欢散步时想一想今天做的事情。工作台需要前一天睡前准备好。
