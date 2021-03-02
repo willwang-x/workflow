@@ -59,6 +59,7 @@
 * A show of hands: Get an up-close look at the delicate designs of a henna artist Jyoti Chheda. Brilliant things happen in calm minds. Be calm. You're brilliant.
 * Like a rolling stone: Watch two **sculptors** turn a rock into a functional work of art
 * Page tuner: An up-close look at the classic art of bookbinding
+* Tuft love: Watch a fiber artist get into the flow while "painting" with yarn
 
 ## The wake up - Wed
 
@@ -205,3 +206,4 @@ Level 3: Master
 * Apply the **focus** to more and more things. Over time, we **tap into** a natural confidence and it becomes **second nature**.
 * Remember the idea of **[naturalness](https://www.wikiwand.com/en/Naturalness_(physics))**, that innate balance of focus where you can center on each part of the activity.
 * When we set things up and approach things in the right way, that defines our **[experience](https://www.wikiwand.com/en/Experience)**.
+* If you get distracted during a [visualization](https://www.wikiwand.com/en/Mental_image), just see it as another thought, and bring your attention back.
