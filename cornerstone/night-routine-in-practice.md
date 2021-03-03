@@ -34,7 +34,7 @@ Night Routine in Practice  <br><br>
 Step: 
 
 1. 放松听觉：[BGM](https://open.spotify.com/playlist/4gPv60nM82v77CuM4x5aVz?si=uvCFGv6eRpSzZcFJzeVTTg)
-1. 准备[物品](https://kit.co/will.wang.wang/morning-routine)：晚饭后，按 [morning-kit](https://kit.co/will.wang.wang/morning-routine) 准备
+1. 准备[物品](https://kit.co/will.wang.wang/morning-routine)：晚饭后，准备 [night-kit](https://kit.co/will.wang.wang/night-routine) 和 [morning-kit](https://kit.co/will.wang.wang/morning-routine)
 1. 放松身体：洗澡
 1. 放松视觉：氛围灯(Hue)，热眼霜
 1. 放松触觉：按摩脚底

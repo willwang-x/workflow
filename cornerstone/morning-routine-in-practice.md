@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/TS8j2FK.png" alt="A perfect morning" width=42%">
   </a>
   <br><br>
-Morning routine in Practice: <br>如何充满活力？
+Morning routine in Practice: <br>如何一天充满活力？
   <br><br>
 </h1>
 
@@ -28,13 +28,13 @@ Morning routine in Practice: <br>如何充满活力？
 
 workflow with 🎵[BGM](https://open.spotify.com/playlist/34183eqUajA5kvizaXAFR2?si=pWZDbDHrTcu8ZLshZABWAw)：
 
-1. 👃唤醒嗅觉，新鲜空气
-1. 🤸‍♂️唤醒身体，做运动
-1. 🚿唤醒皮肤，冲个凉
-1. ☕️唤醒大脑，喝饮品
-1. 🥪唤醒味觉，吃早餐
-1. 🎯查看目标，明确日程
-1. 👨‍💻到工作台，工作
+1. 👃 唤醒嗅觉，新鲜空气
+1. 🤸‍♂️ 唤醒身体，做运动
+1. 🚿 唤醒皮肤，冲个凉
+1. ☕️ 唤醒大脑，喝饮品
+1. 🥪 唤醒味觉，吃早餐
+1. 🎯 查看目标，明确日程
+1. 👨‍💻 到工作台，工作
 
 ## What 
 
@@ -79,3 +79,10 @@ A: 对每一个环节设计一个开始和结束曲目，通过音乐来感知�
 #### Q: 如何衡量睡眠质量？
 
 A: readiness & ?
+
+#### Q: 实践心得？
+
+A: 
+
+* Do as little as needed, not as much as possible. -  Henk Kraaijenhof 
+	* night routine 目标就是让 morning routine 不需要做任何准备， Do as little as needed.

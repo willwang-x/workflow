@@ -26,11 +26,11 @@ source: [healthline.com](https://www.healthline.com/health/healthy-sleep/how-to-
 
 <center>
 <a href="https://kit.co/will.wang.wang/nap-kit">
-<img src="https://i.imgur.com/y9znTBI.jpg" alt="intuition" width=42%">
+<img src="https://assets.kit.co/kits/68/ff/nap-kit-68ffd99fa5e1e9fd585b82543cf54e0d.jpg" alt="intuition" width=42%">
 </a>
 </center>
 
-* **准备**：热水，水杯，加湿器，眼罩。（让wake up变得流畅）
+* **准备**：热水，水杯，加湿器，眼罩，衣服，毯子。Mist.（让wake up变得流畅）
 * **定时**：
 	* **Turn on**「Do Not Disturb」  
 	* Apple Watch: Siri Timer - 「**15 mins**」
