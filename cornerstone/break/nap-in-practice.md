@@ -35,6 +35,9 @@ source: [healthline.com](https://www.healthline.com/health/healthy-sleep/how-to-
 	* **Turn on**「Do Not Disturb」  
 	* Apple Watch: Siri Timer - 「**15 mins**」
 * **唤醒**：阳台吹风晒阳光 with [BGM](https://open.spotify.com/playlist/4HJSuWip0Eh0OC4rY0NMPt?si=5YCQZJ4oSi2OKG5FxHndAQ)
+	* 带上耳机 
+	* 收纳毯子，眼罩盒子。
+	* 带着这玻璃杯和保温瓶到阳台
 	* Turn off「Do Not Disturb」  
 
 
