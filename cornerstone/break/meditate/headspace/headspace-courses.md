@@ -67,6 +67,12 @@
 * How to Eat for Better Sleep with Dr. Jaclyn Tolentino. Tips: 1) Timing is everything. 2) It's all about what you eat. 3) Avoid certain foods. 4) Avoid caffeine and alcohol.
 * Meet Dora: Headspace's newest meditation teacher 
 * Ask Kessonga
+* How moving you body helps digestion: Simple tips for boosting your dietary well-being 
+	* How Movement Aids Digestion with Dr.Jaclyn Tolentino - Family Physician & Wellness Expert
+	* Tip 1: Be **[conscious](https://www.wikiwand.com/en/Consciousness)** of timing.
+	* Tip 2: Take a walk after eating.
+	* Tip 3: Get your **cardio** on.
+	* Tip 4: Stretch.
 
 ## The wake up - Thursday 
 
@@ -207,3 +213,4 @@ Level 3: Master
 * Remember the idea of **[naturalness](https://www.wikiwand.com/en/Naturalness_(physics))**, that innate balance of focus where you can center on each part of the activity.
 * When we set things up and approach things in the right way, that defines our **[experience](https://www.wikiwand.com/en/Experience)**.
 * If you get distracted during a [visualization](https://www.wikiwand.com/en/Mental_image), just see it as another thought, and bring your attention back.
+* The more you practice, the more [relaxed](https://www.wikiwand.com/en/Relaxation_(psychology)) you are when you come into a given situation.

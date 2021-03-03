@@ -20,6 +20,7 @@ wiki-link-name, e.g. **Note-taking** from https://www.wikiwand.com/en/**Note-tak
 	* The importance of 
 	* The benefits of 
 	* The Advantages of 
+	* The power of 
 	* Good reason to 
 
 ## How
