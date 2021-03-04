@@ -81,6 +81,7 @@
 * Welcome to the world: See life through the eyes of a baby elephant  - Beginner's mind. Embrace curiosity. Throughout the day, try to approach thoughts and feelings that arise with curiosity. That's beginner's mind.
 * **Hop to it**: See life through the eyes of a baby [kangaroo](https://www.wikiwand.com/en/Kangaroo)
 * Welcome to the world: [Sea Otters](https://www.wikiwand.com/en/Sea_otter)
+* Full speed ahead: [Cheetahs](https://www.wikiwand.com/en/Cheetah)
 
 ## The wake up - Friday
 
@@ -214,3 +215,4 @@ Level 3: Master
 * When we set things up and approach things in the right way, that defines our **[experience](https://www.wikiwand.com/en/Experience)**.
 * If you get distracted during a [visualization](https://www.wikiwand.com/en/Mental_image), just see it as another thought, and bring your attention back.
 * The more you practice, the more [relaxed](https://www.wikiwand.com/en/Relaxation_(psychology)) you are when you come into a given situation.
+* Discover the **innate focus** within you rather than forcing it.
