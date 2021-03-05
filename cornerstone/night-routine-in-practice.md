@@ -36,7 +36,7 @@ Step:
 1. 放松听觉：[BGM](https://open.spotify.com/playlist/4gPv60nM82v77CuM4x5aVz?si=uvCFGv6eRpSzZcFJzeVTTg)
 1. 准备[物品](https://kit.co/will.wang.wang/morning-routine)：晚饭后，准备 [night-kit](https://kit.co/will.wang.wang/night-routine) 和 [morning-kit](https://kit.co/will.wang.wang/morning-routine)
 	* 早餐: 水区和咖啡去 
-	* 沐浴 
+	* 沐浴: [skincare - 0.0.1](https://i.imgur.com/roiQROu.png), [clothing - 0.0.1](https://i.imgur.com/aI2GRg4.png)
 	* 入睡：眼罩
 1. 放松身体：洗澡
 1. 放松视觉：氛围灯(Hue)，热眼霜
@@ -99,3 +99,9 @@ Test: (从精神世界进入物理世界)
 * 放松剧：我的家里空无一物
 
 
+#### Q: 夜晚疲劳， 不想night routine 怎么办？
+
+A:
+
+* 洗澡 refresh，然后开始night routine.
+	* Which is worse, trouble now or trouble tomorrow morning? 

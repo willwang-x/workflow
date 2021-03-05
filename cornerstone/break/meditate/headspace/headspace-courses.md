@@ -90,6 +90,11 @@
 * Confronting Debt with Financial Planner Tonya Rapley: 1) Use the snowball method 2) Eliminate the highest interest rate 3) Pay off annoying debt 
 * Right on the money: Learn the secrets to [budgeting](https://www.wikiwand.com/en/Budget) like a financial pro. 1) Determine your medium. 2) Review your spending. 3) Set up your systems.
 * How to Talk about Money with [Alex Holder](https://books.google.com/books/about/Open_Up.html?id=wuWlxwEACAAJ&source=kp_author_description)
+* Mindsets for motivation: The science behind achieving your goals with Dr. Sahar Yousef
+	* Keep it short.
+	* Get specific.
+	* Make it repeatable.
+	* You can always start over. 
 
 ## The wake up - Saturday
 
