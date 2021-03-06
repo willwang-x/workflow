@@ -25,7 +25,7 @@ Night Routine in Practice  <br><br>
 <center>
 
 <a href="https://kit.co/will.wang.wang/night-routine">
-  <img src="https://i.imgur.com/FXBkl9W.jpeg" alt="intuition or map" width=42%">
+  <img src="https://i.imgur.com/K3Es1KF.png" alt="intuition or map" width=42%">
   </a>
 
 </center>
@@ -35,7 +35,7 @@ Step:
 
 1. 放松听觉：[BGM](https://open.spotify.com/playlist/4gPv60nM82v77CuM4x5aVz?si=uvCFGv6eRpSzZcFJzeVTTg)
 1. 准备[物品](https://kit.co/will.wang.wang/morning-routine)：晚饭后，准备 [night-kit](https://kit.co/will.wang.wang/night-routine) 和 [morning-kit](https://kit.co/will.wang.wang/morning-routine)
-	* 早餐: 水区和咖啡去 
+	* 早餐: [水区](https://i.imgur.com/rIjJeda.png)和[咖啡区](https://i.imgur.com/fdya2Rz.jpg) 
 	* 沐浴: [skincare - 0.0.1](https://i.imgur.com/roiQROu.png), [clothing - 0.0.1](https://i.imgur.com/aI2GRg4.png)
 	* 入睡：眼罩
 1. 放松身体：洗澡
