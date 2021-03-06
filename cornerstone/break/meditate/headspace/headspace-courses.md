@@ -101,6 +101,7 @@
 * Stretches to start your morning: 1) Spinal Twist 2) Happy Baby 3) Child's Pose 4) Forward Fold
 * Time for a  reboot: Refresh your mind with this 3-minute meditation. It's okay to pause and reset before moving forward. Sometimes your mind just needs a jump start.
 * Weekend reset: A fresh start
+* Feel-good moves: Start your morning with a quick yoga stretch you can do anywhere. Look for moments this weekend to pause and visualize a steady flow of liquid sunshine washing away your tension.
 
 ## The wake up - Sun.
 
@@ -116,7 +117,9 @@
 
 ## Basics 2
 
-Discover more about your mind and start to deepen your practice.
+![Basics 2](https://i.imgur.com/AFxzd5M.jpeg)
+
+> Discover more about your mind and start to deepen your practice.
 
 1. Meditation can **change** a lot when you realize how it impacts yourself and also those around you.
 1. Clarity of mind improves your **relationships** and makes  the difficulties less likely to occur.
@@ -131,7 +134,9 @@ Discover more about your mind and start to deepen your practice.
 
 ## Basics 3
 
-Overcome some of the more common **obstacles** in meditation and learn how to apply **mindfulness** to your **everyday** life.
+![Basics 3](https://i.imgur.com/IRQhrEU.jpeg)
+
+> Overcome some of the more common **obstacles** in meditation and learn how to apply **mindfulness** to your **everyday** life.
 
 1. As soon as you find yourself **distracted** or lost in thought, gently bring you attention back to the **present**.
 1. Try to carry with you that **sense** of being **present** throughout your day.
@@ -146,7 +151,9 @@ Overcome some of the more common **obstacles** in meditation and learn how to ap
 
 ## Prioritization
 
-When there's a lot **competing** for your attention, get some **clarity** on what really **matters** to you.
+![Prioritization](https://i.imgur.com/NTtzcvD.jpg)
+
+> When there's a lot **competing** for your attention, get some **clarity** on what really **matters** to you.
 
 1. Even if it's just having the same drink each morning, limiting **choices** allows room for more **clarity** in the mind.
 1. Thinking about thinking is sitll just thinking. Let it go and come back to the object of **focus**.
@@ -211,13 +218,21 @@ Level 2: Practice
 
 Level 3: Master
 
-* **Rehearse** your focus in your mind without any expectation. Just let it flow.
-* The goal is to focus **clearly** and with a **relaxed** **attitude**.
-* Seeing an exercise **unfold** in a perfect way **retrains** the mind.
-* Instead of thinking 'you can' or 'you can't' with this, you should simply **be** and let it **unfold**.
-* Apply the **focus** to more and more things. Over time, we **tap into** a natural confidence and it becomes **second nature**.
-* Remember the idea of **[naturalness](https://www.wikiwand.com/en/Naturalness_(physics))**, that innate balance of focus where you can center on each part of the activity.
-* When we set things up and approach things in the right way, that defines our **[experience](https://www.wikiwand.com/en/Experience)**.
-* If you get distracted during a [visualization](https://www.wikiwand.com/en/Mental_image), just see it as another thought, and bring your attention back.
-* The more you practice, the more [relaxed](https://www.wikiwand.com/en/Relaxation_(psychology)) you are when you come into a given situation.
-* Discover the **innate focus** within you rather than forcing it.
+1. **Rehearse** your focus in your mind without any expectation. Just let it flow.
+1. The goal is to focus **clearly** and with a **relaxed** **attitude**.
+1. Seeing an exercise **unfold** in a perfect way **retrains** the mind.
+1. Instead of thinking 'you can' or 'you can't' with this, you should simply **be** and let it **unfold**.
+1. Apply the **focus** to more and more things. Over time, we **tap into** a natural confidence and it becomes **second nature**.
+1. Remember the idea of **[naturalness](https://www.wikiwand.com/en/Naturalness_(physics))**, that innate balance of focus where you can center on each part of the activity.
+1. When we set things up and approach things in the right way, that defines our **[experience](https://www.wikiwand.com/en/Experience)**.
+1. If you get distracted during a [visualization](https://www.wikiwand.com/en/Mental_image), just see it as another thought, and bring your attention back.
+1. The more you practice, the more [relaxed](https://www.wikiwand.com/en/Relaxation_(psychology)) you are when you come into a given situation.
+1. Discover the **innate focus** within you rather than forcing it.
+
+## Productivity
+
+![Productivity](https://i.imgur.com/qC1296H.jpg)
+
+> Practice maintaining **focus** to make your days more **productive** and **efficient**.
+
+* If we go into something **half-hearted**, it's no surprise if the result isn't quite as we'd like it to be. 

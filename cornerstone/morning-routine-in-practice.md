@@ -44,6 +44,16 @@ workflow with 🎵[BGM](https://open.spotify.com/playlist/34183eqUajA5kvizaXAFR2
 </a>
 </center>
 
+<center>
+<a href="https://www.pinterest.com/willwillwang/morning-routine/">
+<img src="https://i.imgur.com/eMgTPLe.png" width=100%">
+</a>
+
+</center>
+
+test pinterest since it fast to add a new image
+
+
 * **空气**：起床第一件事情，就是天台或者户外呼吸新鲜空气。会让人对起床美好的嗅觉记忆。
 * **运动**：需要一个轻量短时间的运动，固定为 [Supernatural](https://www.getsupernatural.com/) 的 [Quick Hits: Sweat Symphony](https://open.spotify.com/playlist/2SUPCPtUaDgs9KgWfeXQvP?si=5a88885874fe41f1) at [Cape of Good Hope](https://www.wikiwand.com/en/Cape_of_Good_Hope)，以作为生活[节奏](https://www.wikiwand.com/en/Rhythm)最重要的提醒 
 * **冲凉**：下一步优化是：1）一个好的shower head；2）热水还是冷水？
