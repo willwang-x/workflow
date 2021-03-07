@@ -110,6 +110,7 @@
 	* Choose music without lyrics you can understand.
 	* Keep strong, clear associations with your focus music.
 	* Choose specific songs to start and end the day.
+	* A moment to unwind: A short meditation to bring your mind a natural place of rest
 
 ## Today's Meditation
 
@@ -236,3 +237,4 @@ Level 3: Master
 > Practice maintaining **focus** to make your days more **productive** and **efficient**.
 
 * If we go into something **half-hearted**, it's no surprise if the result isn't quite as we'd like it to be. 
+* It's important to recognize that our focus is taken away not only by our internal **dialogue** but also by **what's going on around us**.
