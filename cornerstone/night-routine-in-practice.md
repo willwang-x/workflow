@@ -34,15 +34,15 @@ Night Routine in Practice  <br><br>
 Step: 
 
 1. 放松听觉：[BGM](https://open.spotify.com/playlist/4gPv60nM82v77CuM4x5aVz?si=uvCFGv6eRpSzZcFJzeVTTg)
-1. 准备[物品](https://kit.co/will.wang.wang/morning-routine)：晚饭后，准备 [night-kit](https://kit.co/will.wang.wang/night-routine) 和 [morning-kit](https://kit.co/will.wang.wang/morning-routine)
-	* 早餐: [水区](https://i.imgur.com/rIjJeda.png)和[咖啡区](https://i.imgur.com/fdya2Rz.jpg) 
-	* 沐浴: [skincare - 0.0.1](https://i.imgur.com/roiQROu.png), [clothing - 0.0.1](https://i.imgur.com/aI2GRg4.png)
-	* 入睡：眼罩
+1. 准备[物品](https://kit.co/will.wang.wang/morning-routine)：晚饭后，准备 kit for night & morning 
+	* 沐浴区：[skincare - 0.0.1](https://i.imgur.com/roiQROu.png), [clothing - 0.0.1](https://i.imgur.com/aI2GRg4.png)
+	* [冲剂区](https://i.imgur.com/rIjJeda.png): 运动，能量，热水
+	* 早餐区：三明治 & [咖啡](https://i.imgur.com/fdya2Rz.jpg) 
 1. 放松身体：洗澡
 1. 放松视觉：氛围灯(Hue)，热眼霜
 1. 放松触觉：按摩脚底
 1. 清空大脑：positioning, daily-review, workflowy
-1. 明日准备：工作包，充电(WH耳机，手表，手机)，行头，日程
+1. 明日准备：工作包，**充电**(WH耳机，手表，手机)，行头，日程
 1. 放松味觉：茶
 
 改善： 
@@ -105,3 +105,10 @@ A:
 
 * 洗澡 refresh，然后开始night routine.
 	* Which is worse, trouble now or trouble tomorrow morning? 
+
+#### Q: night routine 最小合集？
+
+A: 
+
+* **充电**(WH耳机，手表，手机)
+	
