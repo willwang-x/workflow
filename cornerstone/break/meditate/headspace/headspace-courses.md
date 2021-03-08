@@ -46,12 +46,13 @@
 * Connect the dots: Andy's advice for aligning your body, speech, and mind
 * How meditation rewires the brain with Dr. Tracy Brandmeyer
 
-## The wake up - Mon
+## The wake up - Monday
 
 * **Ride your wave**: Kevin Hart's tips for navigating the highs and lows of your day. How are you going to handle your feelings?
 * **Fight procrastination**: The perfect pep talk for a productive day, courtesy of Kevin Hart
 * **Get good at failing**: An important life lesson from Kevin Hart
 * Energy Shots! with Kevin Hart: Stretch your [attention span](https://www.wikiwand.com/en/Attention_span) 
+* **Exercise with purpose**: Kevin Hart has a motivational pep talk for your next workout
 
 ## The wake up - Tuesday
 
@@ -238,3 +239,4 @@ Level 3: Master
 
 * If we go into something **half-hearted**, it's no surprise if the result isn't quite as we'd like it to be. 
 * It's important to recognize that our focus is taken away not only by our internal **dialogue** but also by **what's going on around us**.
+* Be clear with your [intention](https://www.wikiwand.com/en/Intention) as you travel through the day.
