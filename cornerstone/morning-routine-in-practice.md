@@ -38,20 +38,13 @@ workflow with 🎵[BGM](https://open.spotify.com/playlist/34183eqUajA5kvizaXAFR2
 
 ## What 
 
-<center>
-<a href="https://kit.co/will.wang.wang/morning-routine">
-<img src="https://assets.kit.co/kits/cc/ab/morning-routine-ccabda9130634a5e4dc9f2bb10f10f99.jpg" width=24%">
-</a>
-</center>
 
 <center>
 <a href="https://www.pinterest.com/willwillwang/morning-routine/">
-<img src="https://i.imgur.com/eMgTPLe.png" width=100%">
+<img src="https://i.imgur.com/jbQsgpP.jpeg" width=100%">
 </a>
 
 </center>
-
-test pinterest since it fast to add a new image
 
 
 * **空气**：起床第一件事情，就是天台或者户外呼吸新鲜空气。会让人对起床美好的嗅觉记忆。
