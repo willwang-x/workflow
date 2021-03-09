@@ -41,7 +41,7 @@ workflow with 🎵[BGM](https://open.spotify.com/playlist/34183eqUajA5kvizaXAFR2
 
 <center>
 <a href="https://www.pinterest.com/willwillwang/morning-routine/">
-<img src="https://i.imgur.com/jbQsgpP.jpeg" width=100%">
+<img src="https://i.imgur.com/GaKYgwd.png" width=100%">
 </a>
 
 </center>

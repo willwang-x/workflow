@@ -12,6 +12,9 @@ wiki-link-name, e.g. **Note-taking** from https://www.wikiwand.com/en/**Note-tak
 
 ## Why 
 
+> 10 Quotes on the Value and Importance of Setting Goals
+
+
 [[start with why](https://www.youtube.com/watch?v=IPYeCltXpxw), to connect it with what you already know]
 
 * Google: keyword + 
