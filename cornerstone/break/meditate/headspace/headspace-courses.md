@@ -61,6 +61,7 @@
 * Like a rolling stone: Watch two **sculptors** turn a rock into a functional work of art
 * Page tuner: An up-close look at the classic art of bookbinding
 * Tuft love: Watch a fiber artist get into the flow while "painting" with yarn
+* Hang around: Plant wisdom is back with everything you need to know about hanging plants
 
 ## The wake up - Wed
 
@@ -240,3 +241,4 @@ Level 3: Master
 * If we go into something **half-hearted**, it's no surprise if the result isn't quite as we'd like it to be. 
 * It's important to recognize that our focus is taken away not only by our internal **dialogue** but also by **what's going on around us**.
 * Be clear with your [intention](https://www.wikiwand.com/en/Intention) as you travel through the day.
+* We're not trying to [control](https://www.wikiwand.com/en/Control_(psychology)) the mind in any way. In fact, we're creating a [framework](https://www.wikiwand.com/en/Framework) in which we can observe the disorder of the mind.
