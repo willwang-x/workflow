@@ -37,7 +37,7 @@ Step:
 1. 准备[物品](https://kit.co/will.wang.wang/morning-routine)：晚饭后，准备 kit for night & morning 
 	* 沐浴区：[skincare - 0.0.1](https://i.imgur.com/roiQROu.png), [clothing - 0.0.1](https://i.imgur.com/aI2GRg4.png)
 	* [冲剂区](https://i.imgur.com/rIjJeda.png): 运动，能量，热水
-	* 早餐区：三明治 & [咖啡](https://i.imgur.com/fdya2Rz.jpg) 
+	* 早餐区：三明治 & [咖啡](https://i.imgur.com/T5VcmYr.png) 
 1. 放松身体：洗澡
 1. 放松视觉：氛围灯(Hue)，热眼霜
 1. 放松触觉：按摩脚底
