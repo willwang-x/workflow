@@ -25,8 +25,8 @@ source: [healthline.com](https://www.healthline.com/health/healthy-sleep/how-to-
 ## How
 
 <center>
-<a href="https://kit.co/will.wang.wang/nap-kit">
-<img src="https://assets.kit.co/kits/68/ff/nap-kit-68ffd99fa5e1e9fd585b82543cf54e0d.jpg" alt="intuition" width=42%">
+<a href="https://www.pinterest.com/willwillwang/nap-kit/">
+<img src="https://i.imgur.com/lHlKKhq.png" alt="intuition" width=42%">
 </a>
 </center>
 
