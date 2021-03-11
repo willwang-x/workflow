@@ -26,7 +26,7 @@ source: [healthline.com](https://www.healthline.com/health/healthy-sleep/how-to-
 
 <center>
 <a href="https://www.pinterest.com/willwillwang/nap-kit/">
-<img src="https://i.imgur.com/lHlKKhq.png" alt="intuition" width=42%">
+<img src="https://i.imgur.com/0cjb2uD.png" alt="intuition" width=42%">
 </a>
 </center>
 
