@@ -75,7 +75,7 @@
 	* Tip 2: Take a walk after eating.
 	* Tip 3: Get your **cardio** on.
 	* Tip 4: Stretch.
-* Big mind vs. small mind: Discover the difference between [thinking](https://www.wikiwand.com/en/Thought) and [awareness](https://www.wikiwand.com/en/Awareness)
+* [Big mind vs. small mind](https://youtu.be/Zgqw1tCX0G4): Discover the difference between [thinking](https://www.wikiwand.com/en/Thought) and [awareness](https://www.wikiwand.com/en/Awareness)
 	* The more you see of the mind, the more you see the potential for discovery. 
 
 ## The wake up - Thursday 
