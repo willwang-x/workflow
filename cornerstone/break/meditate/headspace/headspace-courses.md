@@ -86,6 +86,7 @@
 * **Hop to it**: See life through the eyes of a baby [kangaroo](https://www.wikiwand.com/en/Kangaroo)
 * Welcome to the world: [Sea Otters](https://www.wikiwand.com/en/Sea_otter)
 * Full speed ahead: [Cheetahs](https://www.wikiwand.com/en/Cheetah)
+* Welcome to the jungle: Experience a whole new world through the yes of a baby [orangutan](https://www.wikiwand.com/en/Orangutan). When it comes to meditation, every day is the first day. Each new moment, the first moment.
 
 ## The wake up - Friday
 
@@ -244,3 +245,4 @@ Level 3: Master
 * It's important to recognize that our focus is taken away not only by our internal **dialogue** but also by **what's going on around us**.
 * Be clear with your [intention](https://www.wikiwand.com/en/Intention) as you travel through the day.
 * We're not trying to [control](https://www.wikiwand.com/en/Control_(psychology)) the mind in any way. In fact, we're creating a [framework](https://www.wikiwand.com/en/Framework) in which we can observe the disorder of the mind.
+* Most of us have the ability to focus quite intensely for a short periods, but most activities last a lot longer than just a short burst.
