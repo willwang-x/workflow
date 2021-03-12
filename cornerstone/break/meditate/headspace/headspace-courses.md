@@ -100,6 +100,7 @@
 	* Get specific.
 	* Make it repeatable.
 	* You can always start over. 
+* The science of "when": Expert advice for finding your productivity prime time
 
 ## The wake up - Saturday
 
@@ -246,3 +247,4 @@ Level 3: Master
 * Be clear with your [intention](https://www.wikiwand.com/en/Intention) as you travel through the day.
 * We're not trying to [control](https://www.wikiwand.com/en/Control_(psychology)) the mind in any way. In fact, we're creating a [framework](https://www.wikiwand.com/en/Framework) in which we can observe the disorder of the mind.
 * Most of us have the ability to focus quite intensely for a short periods, but most activities last a lot longer than just a short burst.
+* Productivity is often tied to our work. But if we train in this way, we bring a sense of productivity to every aspect of life.
