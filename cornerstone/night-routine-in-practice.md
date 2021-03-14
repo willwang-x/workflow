@@ -99,7 +99,7 @@ Test: (从精神世界进入物理世界)
 * 放松剧：我的家里空无一物
 
 
-#### Q: 夜晚疲劳， 不想night routine 怎么办？
+#### Q: 夜晚 疲劳 / [Fatigue](https://www.wikiwand.com/en/Fatigue)， 不想night routine 怎么办？
 
 A:
 

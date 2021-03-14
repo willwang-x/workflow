@@ -66,6 +66,8 @@ A:
 * [The Morning Routines Of The Most Successful People](https://www.fastcompany.com/3033652/the-morning-routines-of-the-most-successful-people)
 * [The Ultimate Morning Routine to Make You Happy And Productive All Day](https://www.lifehack.org/768258/morning-routine-to-make-your-day)
 * [A book and website to help you create a morning routine that works for you](https://mymorningroutine.com/)
+* The science of "when": Expert advice for finding your productivity prime time
+
 
 #### Q: 你是如何设计Will's morning BGM？
 
@@ -92,3 +94,23 @@ A:
 * 早起，上升工作台。形成开始的暗示。
 * 效率提升：从左而右依次放好，需要干的事情。如pour-over coffee 环节。
 * 用盒子批量准备好早餐。
+
+#### Q: What is your [chronotypes](https://www.wikiwand.com/en/Chronotype)?
+
+[A](https://youtu.be/q8OjOPrO-vo): 
+
+Most research breaks chronotypes into:
+
+* morning type
+* evening type
+* neither
+
+Some describe four types, with the names:
+
+* bear
+* wolf
+* lion
+* dolphin
+
+
+source: [Chronotypes, Sleep, and Productivity](https://www.healthline.com/health/chronotype)
