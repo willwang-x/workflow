@@ -21,7 +21,7 @@ Email：如何高效处理邮件？
 ## How 
 
 * **记录**: **扫描**邮件，记录(List) **Task** 
-* **排序**: **Move**, **排序** Tasks
+* **分类**: **Move**
 * **处理**: **Research**, **Define** → **in progress**	
 
 ## What 
