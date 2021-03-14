@@ -117,6 +117,7 @@
 	* Keep strong, clear associations with your focus music.
 	* Choose specific songs to start and end the day.
 	* A moment to unwind: A short meditation to bring your mind a natural place of rest
+* Reduce stress with a body scan: Experience the mental and physical benefits of this meditation technique
 
 ## Today's Meditation
 
@@ -248,3 +249,4 @@ Level 3: Master
 * We're not trying to [control](https://www.wikiwand.com/en/Control_(psychology)) the mind in any way. In fact, we're creating a [framework](https://www.wikiwand.com/en/Framework) in which we can observe the disorder of the mind.
 * Most of us have the ability to focus quite intensely for a short periods, but most activities last a lot longer than just a short burst.
 * Productivity is often tied to our work. But if we train in this way, we bring a sense of productivity to every aspect of life.
+* Look at your sleeping routine. What are the things that you can do to ensure that you have a better night's rest?
