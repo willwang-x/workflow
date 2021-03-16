@@ -63,6 +63,7 @@
 * Page tuner: An up-close look at the classic art of bookbinding
 * Tuft love: Watch a fiber artist get into the flow while "painting" with yarn
 * Hang around: Plant wisdom is back with everything you need to know about hanging plants
+* Plant Wisdom to the rescue: Maryah is back to help solve your houseplant emrgencies
 
 ## The wake up - Wed
 
@@ -252,3 +253,4 @@ Level 3: Master
 * Productivity is often tied to our work. But if we train in this way, we bring a sense of productivity to every aspect of life.
 * Look at your sleeping routine. What are the things that you can do to ensure that you have a better night's rest?
 * There is a direct [correlation](https://www.wikiwand.com/en/Correlation_and_dependence) between how we look after our [bodies](https://www.wikiwand.com/en/Human_body) and how productive we are.
+* Take an honest look at what you eat, when you eat and how it makes you feel. Are you eating foods that are conducive to being productive?
