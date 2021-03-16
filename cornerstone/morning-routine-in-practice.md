@@ -66,7 +66,7 @@ A:
 * [The Morning Routines Of The Most Successful People](https://www.fastcompany.com/3033652/the-morning-routines-of-the-most-successful-people)
 * [The Ultimate Morning Routine to Make You Happy And Productive All Day](https://www.lifehack.org/768258/morning-routine-to-make-your-day)
 * [A book and website to help you create a morning routine that works for you](https://mymorningroutine.com/)
-* The science of "when": Expert advice for finding your productivity prime time
+* [The science of "when": Expert advice for finding your productivity prime time](https://youtu.be/q8OjOPrO-vo)
 
 
 #### Q: 你是如何设计Will's morning BGM？

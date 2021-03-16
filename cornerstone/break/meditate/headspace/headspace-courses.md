@@ -53,6 +53,7 @@
 * **Get good at failing**: An important life lesson from Kevin Hart
 * Energy Shots! with Kevin Hart: Stretch your [attention span](https://www.wikiwand.com/en/Attention_span) 
 * **Exercise with purpose**: Kevin Hart has a motivational pep talk for your next workout
+* A new point of view: How **changing perspective** can ease the mind
 
 ## The wake up - Tuesday
 
@@ -250,3 +251,4 @@ Level 3: Master
 * Most of us have the ability to focus quite intensely for a short periods, but most activities last a lot longer than just a short burst.
 * Productivity is often tied to our work. But if we train in this way, we bring a sense of productivity to every aspect of life.
 * Look at your sleeping routine. What are the things that you can do to ensure that you have a better night's rest?
+* There is a direct [correlation](https://www.wikiwand.com/en/Correlation_and_dependence) between how we look after our [bodies](https://www.wikiwand.com/en/Human_body) and how productive we are.
