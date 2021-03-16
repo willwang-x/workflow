@@ -20,8 +20,8 @@ Email：如何高效处理邮件？
 
 ## How 
 
-* **记录**: **扫描**邮件，记录(List) **Task** 
-* **分类**: **Move**
+* **记录**: **扫描**，归档，记录(List) 
+* **分类**: **Move** (Defer or Reply)
 * **处理**: **Research**, **Define** → **in progress**	
 
 ## What 
