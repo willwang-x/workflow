@@ -79,6 +79,7 @@
 	* Tip 4: Stretch.
 * [Big mind vs. small mind](https://youtu.be/Zgqw1tCX0G4): Discover the difference between [thinking](https://www.wikiwand.com/en/Thought) and [awareness](https://www.wikiwand.com/en/Awareness)
 	* The more you see of the mind, the more you see the potential for discovery. 
+* Ask Andy: Breathe Easy - Andy answers your questions about breathing during meditation.
 
 ## The wake up - Thursday 
 
@@ -245,12 +246,13 @@ Level 3: Master
 
 > Practice maintaining **focus** to make your days more **productive** and **efficient**.
 
-* If we go into something **half-hearted**, it's no surprise if the result isn't quite as we'd like it to be. 
-* It's important to recognize that our focus is taken away not only by our internal **dialogue** but also by **what's going on around us**.
-* Be clear with your [intention](https://www.wikiwand.com/en/Intention) as you travel through the day.
-* We're not trying to [control](https://www.wikiwand.com/en/Control_(psychology)) the mind in any way. In fact, we're creating a [framework](https://www.wikiwand.com/en/Framework) in which we can observe the disorder of the mind.
-* Most of us have the ability to focus quite intensely for a short periods, but most activities last a lot longer than just a short burst.
-* Productivity is often tied to our work. But if we train in this way, we bring a sense of productivity to every aspect of life.
-* Look at your sleeping routine. What are the things that you can do to ensure that you have a better night's rest?
-* There is a direct [correlation](https://www.wikiwand.com/en/Correlation_and_dependence) between how we look after our [bodies](https://www.wikiwand.com/en/Human_body) and how productive we are.
-* Take an honest look at what you eat, when you eat and how it makes you feel. Are you eating foods that are conducive to being productive?
+1. If we go into something **half-hearted**, it's no surprise if the result isn't quite as we'd like it to be. 
+1. It's important to recognize that our focus is taken away not only by our internal **dialogue** but also by **what's going on around us**.
+1. Be clear with your [intention](https://www.wikiwand.com/en/Intention) as you travel through the day.
+1. We're not trying to [control](https://www.wikiwand.com/en/Control_(psychology)) the mind in any way. In fact, we're creating a [framework](https://www.wikiwand.com/en/Framework) in which we can observe the disorder of the mind.
+1. Most of us have the ability to focus quite intensely for a short periods, but most activities last a lot longer than just a short burst.
+1. Productivity is often tied to our work. But if we train in this way, we bring a sense of productivity to every aspect of life.
+1. Look at your sleeping routine. What are the things that you can do to ensure that you have a better night's rest?
+1. There is a direct [correlation](https://www.wikiwand.com/en/Correlation_and_dependence) between how we look after our [bodies](https://www.wikiwand.com/en/Human_body) and how productive we are.
+1. Take an honest look at what you eat, when you eat and how it makes you feel. Are you eating foods that are conducive to being productive?
+1. The skill is not getting caught up in the nature of the **[distraction](https://www.wikiwand.com/en/Distraction)** but simply **[noticing](https://www.wikiwand.com/en/Awareness)** when we are distracted. 

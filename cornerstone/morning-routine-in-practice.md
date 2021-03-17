@@ -92,7 +92,7 @@ A:
 * Do as little as needed, not as much as possible. -  Henk Kraaijenhof 
 	* night routine 目标就是让 morning routine 不需要做任何准备， Do as little as needed.
 * 早起，上升工作台。形成开始的暗示。
-* 效率提升：从左而右依次放好，需要干的事情。如pour-over coffee 环节。
+* 效率提升：**从左而右**依次放好，需要干的事情。如pour-over coffee 环节。
 * 用盒子批量准备好早餐。
 
 #### Q: What is your [chronotypes](https://www.wikiwand.com/en/Chronotype)?
