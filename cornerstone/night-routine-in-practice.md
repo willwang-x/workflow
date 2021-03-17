@@ -25,7 +25,7 @@ Night Routine in Practice  <br><br>
 <center>
 
 <a href="https://www.pinterest.com/willwillwang/night-routine/">
-  <img src="https://i.imgur.com/8p3J31Y.png" alt="intuition or map" width=82%">
+  <img src="https://i.imgur.com/LIO6Zau.png" alt="intuition or map" width=82%">
   </a>
 
 </center>
