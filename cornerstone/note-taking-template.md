@@ -28,21 +28,23 @@ wiki-link-name, e.g. **Note-taking** from https://www.wikiwand.com/en/**Note-tak
 
 ## How
 
-
-* [wikihow](https://www.wikihow.com/Main-Page) - 生活
-* [learn-anything](https://learn-anything.xyz/) - 理论
-* [linkedin.com/learning](https://www.linkedin.com/learning/me) - 职业技能
-* [HBR](https://store.hbr.org/tools/) - 职业理论
-* Others
-	* [educative.io](https://www.educative.io/)
-	* [udemy.com](https://www.udemy.com/)
-	* [skillshare.com](https://www.skillshare.com/home)
-	* [theskills.com](https://www.theskills.com/)
-* reddit - 话题
-* [TED](https://www.ted.com/)
-* [masterclass.com](https://www.masterclass.com/)
+* -- 职业
+* [linkedin-learning](https://www.linkedin.com/learning/me): when searching about 职业技能
+* [HBR](https://store.hbr.org/tools/): books about 职业
+* [udemy](https://www.udemy.com/)：专业知识
+* [learn-anything.xyz](https://learn-anything.xyz/): Learn Anything is the platform for **knowledge discovery** that helps you understand any topic through the **most efficient paths**, as voted by the community. Each topic has a **mind map** with nodes to other **subtopics**, **external links and resources**.
+* [educative](https://www.educative.io/): 计算机相关课程
+* -- 生活
+* [wikihow](https://www.wikihow.com/Main-Page): when searching about 生活
+* [TED](https://www.ted.com/): playlist about 话题
+* [masterclass](https://www.masterclass.com/): 大师课
+* [skillshare](https://www.skillshare.com/home): 生活技能
+* [theskills](https://www.theskills.com/)： 体育技能
+* -- 产品
+* [reddit](): Community about some products 
 * [google](https://www.google.com/imghp?hl=en): keyword + 
 	* cheatsheet 
+	* course
 	* infographic
 	* intuition
 	* why
