@@ -30,10 +30,15 @@ source: [healthline.com](https://www.healthline.com/health/healthy-sleep/how-to-
 </a>
 </center>
 
-* **准备**：热水，水杯，加湿器，眼罩，衣服，毯子。Mist.（让wake up变得流畅）
+* **准备**：
+	* 眼罩，毯子。
+	* 衣服
+	* 热水，水杯，
+	* 加湿器，Mist，耳机
+	* 手机调到音乐界面
 * **定时**：
 	* **Turn on**「Do Not Disturb」  
-	* Apple Watch: Siri Timer - 「**15 mins**」
+	* Apple Watch: Siri Timer - 「**16 mins**」
 * **唤醒**：阳台吹风晒阳光 with [BGM](https://open.spotify.com/playlist/4HJSuWip0Eh0OC4rY0NMPt?si=5YCQZJ4oSi2OKG5FxHndAQ)
 	* 收纳毯子，眼罩盒子。
 	* Mist 
