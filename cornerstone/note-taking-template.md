@@ -41,7 +41,7 @@ wiki-link-name, e.g. **Note-taking** from https://www.wikiwand.com/en/**Note-tak
 * [skillshare](https://www.skillshare.com/home): 生活技能
 * [theskills](https://www.theskills.com/)： 体育技能
 * -- 产品
-* [reddit](): Community about some products 
+* [reddit](https://www.reddit.com/): Community about some products; https://www.reddit.com/
 * [google](https://www.google.com/imghp?hl=en): keyword + 
 	* cheatsheet 
 	* course

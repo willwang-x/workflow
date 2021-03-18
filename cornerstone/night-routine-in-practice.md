@@ -19,13 +19,14 @@ Night Routine in Practice  <br><br>
 
 * 稳定 (consistency)：不管多晚，都要开始。结构性稳定。抗意外能力。
 * 高效：Do as little as possible, but as much as necessary. 
+* 放松：入睡前的状态最好的状态是放松。
 
 ## How
 
 <center>
 
 <a href="https://www.pinterest.com/willwillwang/night-routine/">
-  <img src="https://i.imgur.com/LIO6Zau.png" alt="intuition or map" width=82%">
+  <img src="https://i.imgur.com/5KuJY5X.png" alt="intuition or map" width=82%">
   </a>
 
 </center>
@@ -77,6 +78,7 @@ A:
 * [Wiki: Night Routines](https://www.wikihow.com/Category:Night-Routines)
 * [How to Establish a Nighttime Routine](https://www.wikihow.com/Establish-a-Nighttime-Routine)
 * [23 Ways to Revamp Your Nighttime Routine](https://www.healthline.com/health/nighttime-routine)
+* [5 Things to Cut from Your Night Routine + 7 Things to Add](https://www.rebekah-joan.com/blog/night-routine-ideas)
 
 #### Q: How to recover after a long day at work?
 
