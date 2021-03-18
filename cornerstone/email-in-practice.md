@@ -22,7 +22,7 @@ Email：如何高效处理邮件？
 
 * **记录**: **扫描**，归档，记录(List) 
 * **分类**: **Move** (Defer or Reply)
-* **处理**: **Research**, **Define** → **in progress**	
+* **处理**: **Define** 疑惑, 更新 **Template**, 简洁回复 
 
 ## What 
 
