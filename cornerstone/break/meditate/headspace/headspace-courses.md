@@ -90,6 +90,7 @@
 * Welcome to the world: [Sea Otters](https://www.wikiwand.com/en/Sea_otter)
 * Full speed ahead: [Cheetahs](https://www.wikiwand.com/en/Cheetah)
 * Welcome to the jungle: Experience a whole new world through the yes of a baby [orangutan](https://www.wikiwand.com/en/Orangutan). When it comes to meditation, every day is the first day. Each new moment, the first moment.
+* House Hunting with [Hermit Crabs](https://www.wikiwand.com/en/Hermit_crab): How these resourceful critters adapt to their changing environment 
 
 ## The wake up - Friday
 
