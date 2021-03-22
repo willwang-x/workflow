@@ -26,7 +26,7 @@ Night Routine in Practice  <br><br>
 <center>
 
 <a href="https://www.pinterest.com/willwillwang/night-routine/">
-  <img src="https://i.imgur.com/5KuJY5X.png" alt="intuition or map" width=82%">
+  <img src="https://i.imgur.com/SknMh0w.png" alt="intuition or map" width=82%">
   </a>
 
 </center>
@@ -114,3 +114,8 @@ A:
 
 * **充电**(WH耳机，手表，手机)
 	
+#### Q: 实践心得？
+
+A:
+
+* 物品摆放的逻辑是从左到右，承上启下。e.g. 补水剂放黑桌上，因为是运动完手表放的地方，放下手表，拿起水瓶。

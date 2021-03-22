@@ -29,26 +29,57 @@ Everyday life in Practice：
 
 > 精心设计，顺势而为。
 
+* Morning Routine
+* Wind down Routine
+
+## What 
+
+
+<center>
+<a href="https://www.nytimes.com/2009/05/24/business/24collins.html">
+<img src="https://i.imgur.com/2im8Inx.png" alt="intuition or map" width=100%">
+</a>
+</center>
+
+
+
+### Workflow
+
+1. ☀️ Morning routine - Rhythm is important!
+1. 🧘‍♂️ Meditate - Focus on the present!
+1. 💌 Email
+1. 📤 Things
+1. 🌟 MITs
+1. 🥗 Meal Break
+1. 🔋 Nap
+1. 🧪 Test
+1. 💧 Anki
+1. 🥗 Meal Break
+1. 🤸‍♂️ HIIT  
+1. 👀 Review
+1. 🏡 Positioning
+1. ⚖️ Scale
+1. ⚙️ Optimize - Lean startup (Build-Measure-Learn)
+1. 🌔 Wind down Routine - Always be prepared!
+
+### App
+
+* [F.Lux](https://justgetflux.com/): To feel the time (连续时间)
+* [Take a break](http://www.miidii.tech/portfolio/items/839266): Automatically lock screen, we make you a break you can't refuse. (间隔时间)
+* Fantastical
+* Things
+* Workflowy
+* Anki
+
+## FQAs
+
+#### Q: What is your version of Everyday life?
+
+A: 
+
 1. **morning-routine**: @anki, @email, @review (20%: 1.5h)
 1. **list**: all things I need to do today
 1. **priority**: which is more important & urgent? @anki
 1. **focus**: @toggl 行动闭环，结束截图。 (80%: 6.5h)
 1. **night-routine**: book, @review 	@book
-
-## What 
-
-![one day](https://i.imgur.com/2im8Inx.png)
-
-* @email: 进行一部沟通
-* @review: 反思总结如何进步？一切**支线任务**在这里处理(screenshot)
-* @omnifocus: 一切被捕捉的灵感和想法
-* @anki: 永远**记住**那些重要的知识点
-* @toggl: 记录时间
-* @calendar: 稳定时间去向，用哪一个软件呢？先用默认的。
-* @not-to-do-list: 记录那些被吸引但事后觉得不好的事情
-* app:
-	* [F.Lux](https://justgetflux.com/): To feel the time (连续时间)
-	* [Take a break](http://www.miidii.tech/portfolio/items/839266): Automatically lock screen, we make you a break you can't refuse. (间隔时间)
-
-
 

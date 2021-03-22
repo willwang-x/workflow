@@ -97,3 +97,13 @@ A:
 
 * **Collect**: forward it to xx@gmail.com with the new title: `email template` + the original title
 * **Read carefully**: put it to workflowy and highlight good parts
+
+#### Q: What is best practice before sending an email?
+
+A: Do a CRABS check:
+
+* Chunking. Chunking means that paragraphs must be shorter than in paper copy. One or two short sentences max. This helps scannability.
+* Relevance. With limited space, we have no room for fillers. Stick with what matters – the details of the offer and how to receive it.
+* Accuracy. Don’t get carried away with your copy; don’t set expectations so high that you overpromise and can’t deliver something you offer.
+* Brevity. Brevity goes with chunking and scannability. Write your copy, reduce the word count and then reduce it again. Give yourself targets and beat them without sacrificing good English and understanding.
+* Scannability. This is reading without reading every word, just picking up the sense of each paragraph from the keywords. The eye will pick out words at the start of paragraphs and those emphasized in bold.
