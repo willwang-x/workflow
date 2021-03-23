@@ -83,3 +83,16 @@ A:
 1. **focus**: @toggl 行动闭环，结束截图。 (80%: 6.5h)
 1. **night-routine**: book, @review 	@book
 
+#### Q: How do you find your productivity prime time?
+
+A: [The science of "when"](https://youtu.be/q8OjOPrO-vo): Expert advice for finding your productivity prime time.
+
+<center>
+  <img src="https://i.imgur.com/CBgypCT.png" alt="intuition or map" width=42%">
+</center>
+
+[时型](https://www.healthline.com/health/chronotype) (Chronotype)。基因已经决定了我们在什么时候做什么任务是最佳的。这就是为什么2017年诺贝尔医学奖颁给了「对控制昼夜节律分子机制的发现」作出贡献的三位科学家。划重点，时型是基因决定的，基本没法改变。所以**顺“基”而行，事半功倍，逆“基”而行，苦恼多多。**
+
+* 有三种时型：早起鸟（AM-shifted, 20-25%), 夜猫子(PM-shifted, 20%), 其他 (Biphasic)。
+* 大多数人是第三种，对大多数人来说，上午10点左右时是注意力的第一个高峰 (**Peak focus Hours**)，下午进入下沉期 (**The Dip**)，傍晚进入第二个高峰，即恢复期 (**The Recovery**)。
+* 所以，高效的时间规划，是高峰期干需要深度集中的**分析性工作**，如最重要的工作 (MITs)，下沉期干**行政工作**，如邮件处理；恢复期做**创意类工作**，如头脑风暴和问题解决。

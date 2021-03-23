@@ -30,15 +30,17 @@ source: [healthline.com](https://www.healthline.com/health/healthy-sleep/how-to-
 </a>
 </center>
 
+* **定时**：
+	* **Turn on**「Do Not Disturb」  
+	* Apple Watch: Siri Timer - 「**20 mins**」
+		* 5 mins 准备 	
+		* 15 mins 睡觉
 * **准备**：
 	* 眼罩，毯子。
 	* 衣服
 	* 热水，水杯，
 	* 加湿器，Mist，耳机
 	* 手机调到音乐界面
-* **定时**：
-	* **Turn on**「Do Not Disturb」  
-	* Apple Watch: Siri Timer - 「**16 mins**」
 * **唤醒**：阳台吹风晒阳光 with [BGM](https://open.spotify.com/playlist/4HJSuWip0Eh0OC4rY0NMPt?si=5YCQZJ4oSi2OKG5FxHndAQ)
 	* 收纳毯子，眼罩盒子。
 	* Mist 
