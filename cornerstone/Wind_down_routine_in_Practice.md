@@ -1,13 +1,13 @@
 <h1 align="center">
 <br>
-	<a href="https://blog.journey.cloud/ways-to-get-better-sleep/">
-  <img src="https://i.imgur.com/FvvLvhO.png" alt="intuition or map" width=42%">
+	<a href="https://www.pinterest.com/willwillwang/night-routine/">
+  <img src="https://i.imgur.com/SknMh0w.png" alt="intuition or map" width=42%">
   </a>
   <br><br>
-Night Routine in Practice  <br><br>
+Wind Down Routine in Practice  <br><br>
 </h1>
 
-> one-line-description. [[wiki]()]
+> To relax; to get rid of stress [[wiki](https://en.wiktionary.org/wiki/wind_down)]
 
 ## Why 
 
@@ -23,17 +23,6 @@ Night Routine in Practice  <br><br>
 
 ## How
 
-<center>
-
-<a href="https://www.pinterest.com/willwillwang/night-routine/">
-  <img src="https://i.imgur.com/SknMh0w.png" alt="intuition or map" width=82%">
-  </a>
-
-</center>
-
-
-Step: 
-
 1. 放松听觉：[BGM](https://open.spotify.com/playlist/4gPv60nM82v77CuM4x5aVz?si=uvCFGv6eRpSzZcFJzeVTTg)
 1. 准备[物品](https://kit.co/will.wang.wang/morning-routine)：晚饭后，准备 kit for night & morning 
 	* 沐浴区：[skincare - 0.0.1](https://i.imgur.com/roiQROu.png), [clothing - 0.0.1](https://i.imgur.com/aI2GRg4.png)
@@ -46,12 +35,6 @@ Step:
 1. 明日准备：工作包，**充电**(WH耳机，手表，手机)，行头，日程
 1. 放松味觉：茶
 
-改善： 
-
-* 点一柱香
-* 以晚饭后 **健身** 为 night routine 触发信号。
-	* 如果没有？-> 思考中...
-* 准备早晨的容器: 水盒，早盒，冰箱盒
 
 ## What 
 
@@ -79,6 +62,7 @@ A:
 * [How to Establish a Nighttime Routine](https://www.wikihow.com/Establish-a-Nighttime-Routine)
 * [23 Ways to Revamp Your Nighttime Routine](https://www.healthline.com/health/nighttime-routine)
 * [5 Things to Cut from Your Night Routine + 7 Things to Add](https://www.rebekah-joan.com/blog/night-routine-ideas)
+* [Bedtime Routines for Adults](https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults)
 
 #### Q: How to recover after a long day at work?
 
@@ -119,3 +103,7 @@ A:
 A:
 
 * 物品摆放的逻辑是从左到右，承上启下。e.g. 补水剂放黑桌上，因为是运动完手表放的地方，放下手表，拿起水瓶。
+* 点一柱香
+* 以晚饭后 **健身** 为 night routine 触发信号。
+	* 如果没有？-> 思考中...
+* 准备早晨的容器: 水盒，早盒，冰箱盒

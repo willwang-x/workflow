@@ -47,6 +47,7 @@ Everyday life in Practice：
 
 1. ☀️ Morning routine - Rhythm is important!
 1. 🧘‍♂️ Meditate - Focus on the present!
+1. 🌟 MITs = MVAs - [First things first](https://www.wikiwand.com/en/The_7_Habits_of_Highly_Effective_People)
 1. 💌 Email
 1. 📤 Things
 1. 🌟 MITs
@@ -96,3 +97,16 @@ A: [The science of "when"](https://youtu.be/q8OjOPrO-vo): Expert advice for find
 * 有三种时型：早起鸟（AM-shifted, 20-25%), 夜猫子(PM-shifted, 20%), 其他 (Biphasic)。
 * 大多数人是第三种，对大多数人来说，上午10点左右时是注意力的第一个高峰 (**Peak focus Hours**)，下午进入下沉期 (**The Dip**)，傍晚进入第二个高峰，即恢复期 (**The Recovery**)。
 * 所以，高效的时间规划，是高峰期干需要深度集中的**分析性工作**，如最重要的工作 (MITs)，下沉期干**行政工作**，如邮件处理；恢复期做**创意类工作**，如头脑风暴和问题解决。
+
+
+#### Q: What are [The 7 Habits of Highly Effective People](https://www.wikiwand.com/en/The_7_Habits_of_Highly_Effective_People)?
+
+A: 
+
+* 1 - Be proactive
+* 2 - Begin with the end in mind
+* 3 - First things first
+* 4 - Think win-win
+* 5 - Seek first to understand, then to be understood
+* 6 - Synergize
+* 7 - Sharpen the Saw; Growth
