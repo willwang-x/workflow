@@ -4,13 +4,16 @@
   <img src="https://i.imgur.com/8NO3LLs.jpeg" alt="50 ways to take a break" width=42%">
   </a>
   <br><br>
-Break: 如何高效休息？ 
+Break_(work) in Pracitce: 如何高效休息？ 
   <br><br>
 </h1>
 
-> 休息的本质是从外界获得信息和能量。 《[格局](https://book.douban.com/subject/34848957/)》
+> A break at work is a period of time during a shift in which an employee is allowed to take time off from their job. [[wiki](https://www.wikiwand.com/en/Break_(work))]
 
 ## Why 
+
+> 休息的本质是从外界获得信息和能量。 《[格局](https://book.douban.com/subject/34848957/)》
+
 
 [The importance of taking a break](https://www.nature.com/articles/s41564-018-0269-5)
 

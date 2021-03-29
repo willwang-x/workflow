@@ -50,18 +50,17 @@ Everyday life in Practice：
 1. 🌟 MITs = MVAs - [First things first](https://www.wikiwand.com/en/The_7_Habits_of_Highly_Effective_People)
 1. 💌 Email
 1. 📤 Things
-1. 🌟 MITs
 1. 🥗 Meal Break
 1. 🔋 Nap
-1. 🧪 Test
-1. 💧 Anki
+1. 🧪 [Test](https://www.wikiwand.com/en/Test) - [Stress testing](https://www.wikiwand.com/en/Stress_testing), [Feedback](https://www.wikiwand.com/en/Feedback) 
+1. 💧 Anki - Make [memory](https://www.wikiwand.com/en/Memory) a choice!
 1. 🥗 Meal Break
 1. 🤸‍♂️ HIIT  
 1. 👀 Review
 1. 🏡 Positioning
 1. ⚖️ Scale
-1. ⚙️ Optimize - Lean startup (Build-Measure-Learn)
-1. 🌔 Wind down Routine - Always be prepared!
+1. ⚙️ [Optimize](https://www.wikiwand.com/en/Optimization_(disambiguation)) - [Lean startup](https://www.wikiwand.com/en/Lean_startup#) (Build-Measure-Learn)
+1. 🌔 Wind down Routine - Always be [prepared](https://www.wikiwand.com/en/Preparation_(principle))!
 
 ### App
 

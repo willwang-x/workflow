@@ -59,3 +59,10 @@ A: 从收集，浏览，编辑和分享角度来看：
 * 浏览便捷性：Kit > Workflowy > Pinterest
 * 编辑便捷性：Workflowy > Pinterest > Kit
 * 分享可能性：Kit > Workflowy > Pinterest
+
+
+#### Q: 一些使用心得？
+
+A: 
+
+* 先试验，由多到少，合并同类型。如大面包和小面包，合并成只买大面包，因为太多会过期。

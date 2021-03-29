@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/EFEoch9.png" alt="intuition or map" width=42%">
   </a>
   <br><br>
-wiki-link-name, e.g. **Note-taking** from https://www.wikiwand.com/en/**Note-taking**
+wiki-link-name (in Practice / on Map) <br> e.g. **Note-taking** from https://www.wikiwand.com/en/**Note-taking** 
   <br><br>
 </h1>
 
