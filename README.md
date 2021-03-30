@@ -21,9 +21,9 @@
 
 > **精心设计**，**顺势而为**
 
-1. **实践**workflow
-1. **记录**when faced with issues
-1. **更新**workflow
+1. **实践** workflow
+1. **记录** when faced with issues
+1. **更新** workflow
 
 
 ## What 
