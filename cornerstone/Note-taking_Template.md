@@ -1,8 +1,7 @@
 <h1 align="center">
 <br>
 	<a href="https://www.wikiwand.com/en/Note-taking">
-  <img src="https://i.imgur.com/EFEoch9.png" alt="intuition or map" width=42%">
-  </a>
+  <img src="https://i.imgur.com/EFEoch9.png" alt="intuition or map" width=42%"></a>
   <br><br>
 wiki-link-name (in Practice / on Map) <br> e.g. **Note-taking** from https://www.wikiwand.com/en/**Note-taking** 
   <br><br>
@@ -25,6 +24,7 @@ wiki-link-name (in Practice / on Map) <br> e.g. **Note-taking** from https://www
 	* The Advantages of 
 	* The power of 
 	* Good reason to 
+	* Why do people like 
 
 ## How
 

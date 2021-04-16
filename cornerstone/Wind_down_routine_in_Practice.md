@@ -1,7 +1,7 @@
 <h1 align="center">
 <br>
-	<a href="https://www.pinterest.com/willwillwang/night-routine/">
-  <img src="https://i.imgur.com/SknMh0w.png" alt="intuition or map" width=42%">
+	<a href="https://www.pinterest.com/willwillwang/wind-down-routine/">
+  <img src="https://i.imgur.com/pKE7w16.png" alt="intuition or map" width=42%">
   </a>
   <br><br>
 Wind Down Routine in Practice  <br><br>
