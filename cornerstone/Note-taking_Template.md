@@ -78,6 +78,3 @@ A:
 * Google: keyword vs 
 * [wikidiff.com](https://wikidiff.com/)
 * [slant.co](https://www.slant.co/): TRUSTWORTHY PRODUCT RANKINGS FOR ALL YOUR SHOPPING NEEDS
-
-
-
