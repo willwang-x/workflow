@@ -15,7 +15,7 @@ Wind Down Routine in Practice  <br><br>
 * It improves the **quality of sleep** that you get.
 * Your brain functions more **efficiently** throughout the day.
 
-我的night routine的需求：
+我的 wind down routine 的需求：
 
 * 稳定 (consistency)：不管多晚，都要开始。结构性稳定。抗意外能力。
 * 高效：Do as little as possible, but as much as necessary. 
